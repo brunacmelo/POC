@@ -1,0 +1,499 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="Public Domain Portuguese-language Literature Dataset">
+    <meta name="keywords" content="Dataviz, PPORTAL, dataset, book, Goodreads, public domain, digital libraries">
+    <meta name="author" content="Mariana O. S. Silva" />
+
+    <title>Dataviz :: 2022</title>
+
+    <!-- The compiled CSS file -->
+    <!-- <link rel="stylesheet" href="css/production.css"> -->
+    <link rel="stylesheet" href="css/normalize.css">
+
+    <!-- Web fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700|Source+Serif+Pro:700" rel="stylesheet">
+
+    <!-- Icon -->
+    <link rel="stylesheet" href="./fonts/line-icons.css">
+
+    <!-- favicon.ico. Place these in the root directory. -->
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+
+</head>
+
+<body class="has-animations">
+
+    <!-- Header -->
+    <header class="align--center pt3">
+        <div class="container--lg border--bottom pb3">
+            <img class="logo mb3 reveal-on-scroll is-revealing" src="img/logo.svg" alt="Carta">
+            <h1>O que torna um livro<br>bem-sucedido?</h1>
+            <h3 class="mb2"> Um estudo sobre literatura<br>da língua portuguesa</h3>
+            <h4>By <a href="">Mariana Silva</a>, <a href="">Clarisse Scofield</a> & <a href="">Bruna Campos</a></h4>
+            <!-- <span>
+                <a class="btn btn--default disabled" href="">Paper</a>
+            </span>
+            <span>
+                <a class="btn btn--default disabled" href="">Presentation</a>
+            </span>
+            <span>
+                <a class="btn btn--outline" href="https://sbbd.org.br/2021/call-for-dsw/">DSW'21</a>
+            </span> -->
+        </div>
+    </header>
+
+    <main>
+
+        <!-- Abstract -->
+        <div class="container--lg pt1 ">
+            <div class="grid-row grid-row--center">
+                <div class="grid-column reveal-on-scroll order-2 is-revealing">
+                    <img src="img/abstract.svg" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                </div>
+                <!-- <div class="grid-column span-1"></div> -->
+                <div class="grid-column mt3 mb1" align="right">
+                    <!-- <h2>Abstract</h2> -->
+
+                    <p align="justify" style="font-size:110%;">A indústria do livro passou por mais mudanças
+                        significativas na última década do que talvez
+                        nunca antes na história editorial. Especialistas garantem que esse processo de transformação é
+                        apenas uma amostra das muitas mudanças que estão por vir. Especificamente, o uso de informações relacionadas
+                        ao <b>consumo de livros</b> será uma ferramenta crucial para a assertividade na tomada de decisões,
+                        permitindo traçar ações mais objetivas a partir desses dados de inteligência e extrair insights
+                        significativos para melhores perspectivas de negócios. Se as previsões esperadas realmente se concretizarem, quem
+                        conseguir combinar a experiência humana com informações extraídas de dados digitais complexos
+                        terá o que é preciso para enfrentar as próximas mudanças.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Introduction -->
+        <div class="container--lg pt1 ">
+            <div class="grid-row grid-row--center">
+                <div class="grid-column mb2" align="right">
+                    <!-- <h2>Abstract</h2> -->
+
+                    <p align="justify" style="font-size:110%;"> Não é
+                        surpresa que as forças motrizes que influenciam o sucesso do livro continuem a ser o assunto
+                        principal de diferentes estudos, como estilos de escrita <a href="https://aclanthology.org/D13-1181.pdf">[1]</a>, resenhas online <a href="https://journals.sagepub.com/doi/10.1509/jmkr.43.3.345">[2]</a> e críticas de livros <a href="https://ideas.repec.org/a/spr/scient/v107y2016i3d10.1007_s11192-016-1930-5.html">[3]</a>. No entanto, entender como esses fatores moldam o sucesso dos livros têm recebido muito menos atenção <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0135-y">[4]</a>. Quando se trata de estudos voltados para a literatura de língua portuguesa, a lacuna é ainda maior. Em um contexto tão relevante, este trabalho visa preencher as lacunas mencionadas, <b>analisando o que faz um livro ter sucesso no cenário da Literatura Portuguesa</b>.</p>
+                    <br>
+                    <hr>
+                </div>
+            </div>
+        </div>
+
+        <div class="container--lg pb1">
+            <!-- Downloads -->
+            <div class="border--bottom grid-row grid-row--center" id="donwloads">
+                <div class=" grid-column mt3 mb2 order-2">
+                    <div class="border--bottom pb2 mb2">
+                        <h2>Dados</h2>
+                        <h3>PPORTAL <a href="https://doi.org/10.5281/zenodo.5178063"><img
+                                    src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5178063-437a67"
+                                    alt="DOI"></a> </h3>
+                        <h4>Public domain Portuguese-language literature Dataset</h4>
+                        <p align="justify">Neste projeto, usaremos o PPORTAL, um dataset aberto de literatura de língua
+                            portuguesa
+                            de domínio público. O <a href="https://sol.sbc.org.br/index.php/dsw/article/view/17416">PPORTAL</a> é composto por três bibliotecas digitais para obras de
+                            domínio
+                            público principalmente do Brasil e Portugal: <a href="https://www.dominiopublico.gov.br">Domínio Público</a>, <a href="https://projectoadamastor.org">Projecto Adamastor</a>, e <a href="https://www.literaturabrasileira.ufsc.br">Biblioteca Digital de Literatura de Países Lusófonos (BLPL)</a>. Tais informações heterogêneas foram integradas
+                            usando a API <a href="https://www.goodreads.com/">Goodreads</a> e uma abordagem de correspondência difusa, que resulta em 2.388 obras
+                            exclusivas. Os IDs das obras no conjunto de dados integrado permitem coletar informações
+                            adicionais de elementos essenciais do ecossistema da indústria do livro: obras, autores,
+                            leitores e
+                            resenhas. </p>
+                    </div>
+
+                    <div class="inline-block mr1 no-mr-on-mobile" style="width:280px;max-width:100%">
+                        <div class="select mb1">
+                            <select id="filename">
+                                </option>
+                                <option value="https://zenodo.org/record/5178063/files/PPORTAL.zip?download=1">CSVs
+                                </option>
+                                <option value="https://zenodo.org/record/5178063/files/PPORTAL.dump.sql?download=1">Dump
+                                    SQL
+                            </select>
+                        </div>
+                    </div>
+                    <input type="button" onclick="window.location.href=document.getElementById('filename').value"
+                        value="Download" class="btn btn--secondary" />
+
+                </div>
+                <!-- <div class="grid-column span-1"></div> -->
+                <div class="grid-column mt3 mb2 order-1 reveal-on-scroll is-revealing">
+                    <img src="img/downloads.svg" alt="Usage data">
+                </div>
+            </div>
+        </div>
+
+        <!-- Introduction -->
+        <div class="container--lg pt1 ">
+            <div class="grid-row grid-row--center">
+                <div class="grid-column mb2" align="right">
+                    <!-- <h2>Abstract</h2> -->
+
+                    <p align="justify" style="font-size:110%;">Neste projeto, pretendemos analisar possíveis fatores
+                        <b>intrínsecos</b> e <b>extrínsecos</b> que
+                        influenciam o sucesso de obras literárias em <em>português</em>. Através de uma abordagem orientada a
+                        dados e utilizando visualizações gráficas, pretendemos descrever e mapear interações entre
+                        diferentes variáveis do ecossistema de publicação de livros para gerar percepções importantes
+                        sobre
+                        o que faz uma obra literária alcançar o sucesso. Em particular, buscamos responder questões
+                        como:
+                    </p>
+                    <br>
+                    <ul align="left" style="margin-left: 30px;font-size:110%;">
+                        <li>O que torna um livro reconhecido?</li>
+                        <li>O que torna um livro popular?</li>
+                        <li>O que torna um livro interessante?</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Introduction -->
+        <div class="container--lg pt1 ">
+            <div class="grid-row grid-row--center">
+                <div class="grid-column mb2" align="left">
+                    <h2>Perspectivas de Sucesso</h2>
+
+                    <p align="justify" style="font-size:110%;">Pesquisadores descrevem o sucesso de um livro de
+                        diferentes pontos de vista, incluindo
+                        listas oficiais de best-sellers <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0135-y">[4]</a>, número de resenhas online <a href="https://journals.sagepub.com/doi/10.1509/jmkr.43.3.345">[2]</a>, contagem de downloads <a href="https://aclanthology.org/D13-1181.pdf">[1]</a>, entre outros. Tal diversidade é resultado da natureza subjetiva e abstrata do sucesso. De fato, o que
+                        pode parecer bem-sucedido para algumas pessoas pode não ser bem-sucedido para outras. Portanto,
+                        propor uma definição única e objetiva é uma tarefa desafiadora.</p>
+                    <br>
+                    <p align="justify" style="font-size:110%;"> Além dos desafios, considerar apenas um aspecto para
+                        resumir o sucesso de um livro pode levar à perda de informações sobre sua natureza abrangente. 
+                        Assim, para incorporar plenamente os critérios de sucesso do livro, propomos uma definição mais 
+                        flexível baseada em três perspectivas distintas: <b>reconhecimento</b>, <b>popularidade</b> e <b>interesse</b>. 
+                        Como resultado, podemos examinar mais profundamente os aspectos intrínsecos do que torna um 
+                        livro bem-sucedido. Descrevemos brevemente e indicamos as medidas de sucesso de cada perspectiva proposta a seguir.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Content Section -->
+        <div class="container pt1 mt2 text--gray align--center " id="features">
+            <div class="grid-row">
+                <div class="grid-column span-one-second reveal-on-scroll is-revealing">
+                    <div class="warpper">
+                        <input class="radio" id="one" name="group" type="radio">
+                        <input class="radio" id="two" name="group" type="radio" checked>
+                        <input class="radio" id="three" name="group" type="radio">
+                        <div class="tabbs">
+                            <label class="tabb" id="two-tabb" for="two">Interesse 👀</label>
+                            <label class="tabb" id="three-tabb" for="three">Popularidade ❤️</label>
+                            <label class="tabb" id="one-tabb" for="one">Reconhecimento ⭐️</label>
+                        </div>
+                        <div class="panels">
+                            <div class="panel" id="one-panel">
+                                <!-- <div class="panel-title">Why Learn CSS?</div> -->
+                                <p>Refere-se à importância de uma obra ser <b>considerada</b> e <b>avaliada</b> pelos
+                                    leitores. Pode ser medido através da <em>média de avaliações</em> de uma obra.</p>
+                            </div>
+                            <div class="panel" id="two-panel">
+                                <!-- <div class="panel-title">Take-Away Skills</div> -->
+                                <p>Refere-se ao quanto uma obra foi <b>lida</b> e <b>avaliada</b> pelos usuários de forma
+                                    textual. Pode ser medida através do <em>total de resenhas textuais e avaliações</em> de uma obra.
+                                </p>
+                            </div>
+                            <div class="panel" id="three-panel">
+                                <!-- <div class="panel-title">Note on Prerequisites</div> -->
+                                <p>Refere-se ao quanto os leitores consideram aquela obra como <b>favorita</b>, se <b>estão
+                                    lendo no momento</b> ou <b>pretendem lê-la</b>.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <figure class="highcharts-figure">
+                        <div id="fa_diagram"></div>
+                    </figure>
+                </div>
+            </div>
+        </div>
+
+        <!-- Introduction -->
+        <div class="container--lg">
+            <h2>Análises Preliminares</h2>
+            <p align="justify" style="font-size:110%;"> 
+                A partir das três perspectivas, realizamos uma análise preliminar para explorar se existe algum fator que influencia alguma perspectiva de sucesso.
+                Especificamente, queremos responder as três perguntas de pesquisa citadas anteriormente. Para isso, avaliamos os seguintes fatores.
+            </p>
+            <br>
+            <ul align="left" style="margin-left: 30px;font-size:110%;">
+                <li>O que torna um livro digno de avaliação?</li>
+                <li>O que torna um livro popular?</li>
+                <li>O que torna um livro interessante?</li>
+            </ul>
+            <br>
+            <div class="grid-column span-one-second reveal-on-scroll is-revealing">
+                <div class="tabs">
+                    <input type="radio" name="tabs" id="tabone">
+                    <label for="tabone" id="tabone-content">Formato de Livros</label>
+                    <div class="tab" id="tabone-content">
+                        <div class="background-color-1">
+                            <figure class="highcharts-figure">
+                                <!-- <div id="bar1" style="min-width: 33%; height: 350px; float:left;"></div>
+                                <div id="bar13" style="min-width: 33%; height: 350px; float:left;"></div>
+                                <div id="bar7" style="min-width: 33%; height: 350px; float:left;"></div> -->
+                                <div id="bar14" style="min-width: 33%; height: 350px; float:left;"></div>
+                                <div id="bar8" style="min-width: 33%; height: 350px; float:left;"></div>
+                                <div id="bar2" style="min-width: 33%; height: 350px; float:left;"></div>
+                            </figure>
+                        </div>
+                    </div>
+                
+                    <input type="radio" name="tabs" id="tabtwo" checked="checked">
+                    <label for="tabtwo" id="tabtwo-content">Subgêneros</label>
+                    <div class="tab" id="tabtwo-content">
+                        <figure class="highcharts-figure">
+                            <!-- <div id="bar3" style="min-width: 33%; height: 350px; float:left;"></div>
+                            <div id="bar15" style="min-width: 33%; height: 350px; float:left;"></div>
+                            <div id="bar9" style="min-width: 33%; height: 350px; float:left;"></div> -->
+                            <div id="bar16" style="min-width: 33%; height: 350px; float:left;"></div>
+                            <div id="bar10" style="min-width: 33%; height: 350px; float:left;"></div>
+                            <div id="bar4" style="min-width: 33%; height: 350px; float:left;"></div>
+                    </figure>
+                    </div>
+                
+                    <input type="radio" name="tabs" id="tabthree">
+                    <label for="tabthree" id="tab3-content">É ebook?</label>
+                    <div class="tab" id="tab3-content">
+                        <figure class="highcharts-figure">
+                            <div id="bar17" style="min-width: 33%; height: 350px; float:left;"></div>
+                            <div id="bar11" style="min-width: 33%; height: 350px; float:left;"></div>
+                            <div id="bar5" style="min-width: 33%; height: 350px; float:left;"></div>
+                        </figure>
+                    </div> 
+                    
+                    <input type="radio" name="tabs" id="tabfour">
+                    <label for="tabfour" id="tab4-content">Tamanho do Livro</label>
+                    <div class="tab" id="tab4-content">
+                        <figure class="highcharts-figure">
+                            <div id="bar18" style="min-width: 33%; height: 350px; float:left;"></div>
+                            <div id="bar12" style="min-width: 33%; height: 350px; float:left;"></div>
+                            <div id="bar6" style="min-width: 33%; height: 350px; float:left;"></div>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <p align="justify" style="font-size:110%;">
+                No geral, as três perspectivas seguem a mesma tendência padrão, porém com a quantidade de valores dos fatores
+                variando entre elas.
+                Dos fatores analisados, os mais relevantes, em termos de variação foram:
+            </p>
+            <br>
+            <ul align="left" style="margin-left: 30px;font-size:110%;">
+                <li>Gênero literário</li>
+                <li>Tamanho do livro</li>
+            </ul>
+            
+            <p align="justify" style="font-size:110%;"> Em relação ao formato do livro, não houveram grandes variações.</p>
+        </div>
+
+        <!-- Introduction -->
+        <div class="container--lg pt2 ">
+            <div class="grid-row grid-row--center">
+                <div class="grid-column" align="left">
+                    <h2>Clusterização</h2>
+
+                    <p align="justify" style="font-size:110%;">Para investigar melhor cada perspectiva, utilizamos um
+                    algoritmo de clusterização para agrupar as obras em relação ao nível de sucesso.
+                    
+                    Aqui, nós usamos um algoritmo de agrupamento difuso (i.e., Fuzzy C-means clustering), onde cada
+                    ponto de dados é atribuído a uma probabilidade de pertencer a um determinado grupo (cluster).
+                    Esse grau de pertinência é determinado através da proximidade dos centros dos clusters.
+                    Escolhemos tal abordagem para que o sucesso de um livro possa ser
+                    definido através das três perspectivas, ao invés de apenas uma só dimensão.</p>
+                    <br>
+
+                    <p align="justify" style="font-size:110%;">No total, foram identificados três clusters. O perfil de cada
+                        um é plotado através de um radar plot, a seguir. Nesta visualização, cada polígno caracteriza um cluster
+                        de acordo com os níveis de sucesso médio. É possível notar que cada cluster apresenta um nível diferente
+                        de sucesso, no geral:
+                    </p>
+                    <br>
+                    <ul align="left" style="margin-left: 30px;font-size:110%;">
+                        <li><b>Cluster 1:</b> Alto</li>
+                        <li><b>Cluster 2:</b> Baixo</li>
+                        <li><b>Cluster 3:</b> Médio</li>
+                    </ul>
+
+                    <figure class="highcharts-figure">
+                        <div id="radarplots"></div>
+                    </figure>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Análise -->
+        <div class="container--lg ">
+            <div class="grid-row grid-row--center">
+                <div class="grid-column" align="left">
+                    <h2>Análise dos Níveis de Sucesso</h2>
+
+                    <p align="justify" style="font-size:110%;">Após o agrupamento das obras em relação ao nível de sucesso,
+                        exploramos alguns dos fatores que se mostraram mais relevantes nas análises preliminares. Inicialmente,
+                        utilizando o grau de pertinência retornado pelo algoritmo de clusterização, 
+                        analisamos quais são os gêneros literários mais frequentes em média para cada cluster. Para visualizar, utilizamos um
+                        mapa de calor, muito comum para representar dados multivalorados.
+                    </p>
+                    <br>
+                    <h3>Relação entre os gêneros e níveis de sucesso</h3>
+                    <p align="justify" style="font-size:110%;">Os gêneros são representados em linhas e cada coluna representa 
+                        um cluster. A variação de cores indica o grau médio de pertinência de cada cluster. Células verde escuro indicam um
+                        grau maior de pertinência e células mais claras, um grau mais baixo.
+                    </p>
+                    <br>
+                    <figure class="highcharts-figure">
+                        <div id="generoHeatmap"></div>
+                    </figure>
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
+                    <p align="justify" style="font-size:110%">Para o nível de sucesso alto, representado pelo Cluster 1, 
+                        temos que os gêneros Religion, Academic, Sci-Fi e Self-help são os que mais se destacam. Indicando
+                        que obras de tais gêneros são, em média, mais reconhecidos, populares e mais interessantes.
+
+                        Em relação ao nível baixo, representado pelo Cluster 2, os gêneros Childrens, Politics e Travels são os
+                        mais frequentes. Ou seja, são esses gêneros que possuem um nível de sucesso mais baixo, em média.
+
+                        Por fim, para o nível médio, representado pelo Cluster 3, os gêneros Design, Science, Humor e Cultural 
+                        são os que mais se destacam.</p>
+                    
+                    <br>
+                    <hr>
+                    <br>
+                    <h3>Relação entre o tamanho do livro e níveis de sucesso</h3>
+                    <p align="justify" style="font-size:110%;">Além dos gêneros literários, também analisamos o tamanho médio das obras
+                        em relação ao nível de sucesso. O tamanho dos livros é representado em linhas e cada coluna representa
+                        um cluster (i.e., nível de sucesso). Novamenta, a variação de cores indica o grau médio de pertinência de cada cluster. 
+                        Células laranja escuro indicam um grau maior de pertinência e células mais claras, um grau mais baixo.
+                    </p>
+                    <br>
+                    <figure class="highcharts-figure">
+                        <div id="sizeHeatmap"></div>
+                    </figure>
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
+                    <p align="justify" style="font-size:110%">Para os níveis de sucesso médio e alto, representados pelos Clusters 3 e 1,
+                        os resultados não indicaram uma predominância em relação ao tamanho dos livros, em média. Ou seja,
+                        tal fator pode não influenciar no alcance de sucesso literário.
+                    
+                        No entanto, em relação ao nível baixo, representado pelo Cluster 2, há uma predominância para livros longos/médios, em média.
+                        Isso pode indicar que livros muito longos não são muito reconhecidos, populares e interessantes.</p>
+                    
+                    <br>
+                    <hr>
+                    <br>
+                    <h3>Relação entre o ano de publicação e níveis de sucesso</h3>
+                    <p align="justify" style="font-size:110%;">Até então, havíamos analisado apenas variáveis categóricas.
+                        Dentre as nossas variáveis numéricas, através de uma análise preliminar, identificamos que o ano de
+                        publicação das obras pode ser um fator importante na definição de sucesso. Portanto, também analisamos 
+                        tal fator, considerando os três níveis de sucesso identificados na clusterização.
+                        
+                        Para visualizar, utilizamos gráficos de dispersão, investigando se a variação dos anos de publicação está
+                        correlacionada ao grau de pertinência das obras, para cada cluster (i.e., nível de sucesso).
+                    </p>
+
+                    <figure class="highcharts-figure">
+                        <div id="scatterPlot1" style="min-width: 33%; height: 350px; float:left;"></div>
+                        <div id="scatterPlot2" style="min-width: 33%; height: 350px; float:left;"></div>
+                        <div id="scatterPlot3" style="min-width: 33%; height: 350px; float:left;"></div>
+                    </figure>                    
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
+                    <p align="justify" style="font-size:110%">
+                        Para os niveis de sucesso médio e alto, representados pelos Clusters 3 e 1, os resultados indicam que
+                        uma correlação negativa, onde quanto maior o grau de pertinência, menor é o ano de publicação dos livros. Tal
+                        resultado demonstra que obras mais antigas recebem maior reconhecimento, interesse e popularidade.
+                        
+                        De forma contrária, no nível de sucesso baixo, existe uma correlação positiva. Ou seja, quanto maior o grau de 
+                        pertinência do cluster, maior o ano de publicação, indicando que livros mais novos não são tão populares.
+                    
+                        No geral, os resultados foram como esperado, visto que livros mais novos possuem um tempo menor para que os leitores
+                        possam avaliá-los. Assim, as medidas de sucesso que consideramos penalizam tais livros lançados mais tarde.</p>                    
+                    <br>                    
+                    <hr>
+                    
+                    <br>
+                    <h3>Padrões multivalorados</h3>
+                    <p align="justify" style="font-size:110%">
+                        Para finalizar as anaálises de sucesso, investigamos padrões multivalorados, utilizando os principais fatores
+                        do nosso conjunto de dados. Para isso, utilizamos as coordenadas paralelas, onde cada coluna representa uma variável
+                        e a conexão entre elas revela o padrão multivalorado.</p>
+
+                    <figure class="highcharts-figure">
+                        <div id="test"></div>
+                    </figure>                        
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
+                    <p align="justify" style="font-size:110%">
+                        Para o nível de sucesso alto, é possível observar uma tendência em gêneros de ficção, no formato físico e mais curtos. 
+                        Em relação à decada de publicação, há uma predominância para décadas mais antigas.</p>                    
+                    <br> 
+
+                    <figure class="highcharts-figure">
+                        <div id="test2"></div>
+                    </figure>                    
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
+                    <p align="justify" style="font-size:110%">
+                        Para o nível de sucesso baixo, é possível observar uma tendência em gêneros de não-icção, no formato físico e mais longos.
+                        Em relação à decada de publicação, há uma predominância para décadas mais recentes.</p>                    
+                    <br> 
+
+                    <figure class="highcharts-figure">
+                        <div id="test3"></div>
+                    </figure>                    
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
+                    <p align="justify" style="font-size:110%">
+                        Para o nível de sucesso médio, é possível observar uma tendência melhor distribuída entre as categorias das variáveis.</p>                    
+                    <br> 
+
+                    
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Acknowledgments -->
+        <div class="bg--darkest-gray pt3 pb3 align--center">
+            <h2>📚</h2>
+        </div>
+
+    </main>
+
+    <!-- Scroll reveal -->
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://code.highcharts.com/modules/sankey.js"></script>
+    <script src="https://code.highcharts.com/modules/organization.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="https://code.highcharts.com/modules/heatmap.js"></script>
+    <script src="https://code.highcharts.com/modules/parallel-coordinates.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.6/prefixfree.min.js"></script>
+
+    <!-- The compiled JavaScript file -->
+    <script src="js/production.js"></script>
+    <script src="js/organization.js"></script>
+    <script src="js/spiderweb.js"></script>
+    <script src="js/scatter1.js"></script>
+    <script src="js/boxplot1.js"></script>
+    <script src="js/barplot.js"></script>
+    <script src="js/generoHeatmap.js"></script>
+    <script src="js/sizeHeatmap.js"></script>
+    <script src="js/test.js"></script>
+    <script src="js/test2.js"></script>
+    <script src="js/test3.js"></script>
+    <script src="js/scatterPlot1.js"></script>
+    <script src="js/scatterPlot2.js"></script>
+    <script src="js/scatterPlot3.js"></script>
+</body>
+
+</html>
