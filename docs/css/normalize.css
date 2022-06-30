@@ -54,7 +54,7 @@ pre {
 a {
 	background-color: transparent;
 	-webkit-text-decoration-skip: objects;
-	color: #dd6326
+	color: #ca3078
 }
 
 a:hover {
@@ -481,7 +481,7 @@ html {
 }
 
 body {
-	background-color: #fff2e8!important;
+	background-color: #f7e6ef!important;
 	color: #0e1c30;
 	line-height: 1.6rem;
 	margin: 0;
@@ -672,7 +672,8 @@ video {
 }
 
 .logo {
-	max-height: 300px
+	max-height: 300px;
+	border-radius: 50%
 }
 
 .download {
