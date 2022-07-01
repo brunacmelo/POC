@@ -25,7 +25,7 @@ section {
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 32px;
 	margin: .67em 0
 }
 
@@ -481,7 +481,7 @@ html {
 }
 
 body {
-	background-color: #f7e6ef!important;
+	background-color: #ffe8f3!important;
 	color: #0e1c30;
 	line-height: 1.6rem;
 	margin: 0;
@@ -576,8 +576,8 @@ fieldset[disabled] a.btn {
 }
 
 .btn--default {
-	background-color: #437a67;
-	border-color: #437a67;
+	background-color: #4078ad;
+	border-color: #abb7c5;
 	color: #fffcf2
 }
 
@@ -1212,7 +1212,7 @@ video {
 
 .h1,
 h1 {
-	font-size: 2.1rem
+	font-size: 1.9rem
 }
 
 .h2,
