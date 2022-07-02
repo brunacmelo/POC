@@ -160,6 +160,49 @@
                 </div>
             </div>
         </div>
+        
+        <div class="container pt1 mt2 text--gray align--center " id="features">
+            <div class="grid-row">
+                <div class="grid-column span-one-second reveal-on-scroll is-revealing">
+                    <div class="warpper">
+                        <input class="radio" id="one" name="group" type="radio" checked>
+                        <input class="radio" id="two" name="group" type="radio">
+                        <input class="radio" id="three" name="group" type="radio">
+                        <div class="tabbs">
+                            <label class="tabb" id="one-tabb" for="one">Danceability</label>
+                            <label class="tabb" id="two-tabb" for="two">Valence</label>
+                            <label class="tabb" id="three-tabb" for="three">Energy</label>
+                            
+                        </div>
+                        <div class="panels">
+                            <div class="panel" id="one-panel">
+                                <!-- <div class="panel-title">Why Learn CSS?</div> -->
+                                <p>Refere-se à importância de uma obra ser <b>considerada</b> e <b>avaliada</b> pelos
+                                    leitores. Pode ser medido através da <em>média de avaliações</em> de uma obra.</p>
+                                    <img src="img/danceability_semanal_datas.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                            </div>
+                            <div class="panel" id="two-panel">
+                                <!-- <div class="panel-title">Take-Away Skills</div> -->
+                                <p>Refere-se ao quanto uma obra foi <b>lida</b> e <b>avaliada</b> pelos usuários de forma
+                                    textual. Pode ser medida através do <em>total de resenhas textuais e avaliações</em> de uma obra.
+                                </p>
+                                <img src="../data/plots/valence_semanal_anual.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+
+                            </div>
+                            <div class="panel" id="three-panel">
+                                <!-- <div class="panel-title">Note on Prerequisites</div> -->
+                                <p>Refere-se ao quanto os leitores consideram aquela obra como <b>favorita</b>, se <b>estão
+                                    lendo no momento</b> ou <b>pretendem lê-la</b>.</p>
+                                <img src="../data/plots/energy_semanal_datas.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                            </div>
+                        </div>
+                    </div>
+                    <figure class="highcharts-figure">
+                        <div id="fa_diagram"></div>
+                    </figure>
+                </div>
+            </div>
+        </div>
 
         <!-- Introduction -->
         <div class="container--lg pt1 ">
@@ -184,43 +227,7 @@
         </div>
 
         <!-- Content Section -->
-        <div class="container pt1 mt2 text--gray align--center " id="features">
-            <div class="grid-row">
-                <div class="grid-column span-one-second reveal-on-scroll is-revealing">
-                    <div class="warpper">
-                        <input class="radio" id="one" name="group" type="radio">
-                        <input class="radio" id="two" name="group" type="radio" checked>
-                        <input class="radio" id="three" name="group" type="radio">
-                        <div class="tabbs">
-                            <label class="tabb" id="two-tabb" for="two">Interesse 👀</label>
-                            <label class="tabb" id="three-tabb" for="three">Popularidade ❤️</label>
-                            <label class="tabb" id="one-tabb" for="one">Reconhecimento ⭐️</label>
-                        </div>
-                        <div class="panels">
-                            <div class="panel" id="one-panel">
-                                <!-- <div class="panel-title">Why Learn CSS?</div> -->
-                                <p>Refere-se à importância de uma obra ser <b>considerada</b> e <b>avaliada</b> pelos
-                                    leitores. Pode ser medido através da <em>média de avaliações</em> de uma obra.</p>
-                            </div>
-                            <div class="panel" id="two-panel">
-                                <!-- <div class="panel-title">Take-Away Skills</div> -->
-                                <p>Refere-se ao quanto uma obra foi <b>lida</b> e <b>avaliada</b> pelos usuários de forma
-                                    textual. Pode ser medida através do <em>total de resenhas textuais e avaliações</em> de uma obra.
-                                </p>
-                            </div>
-                            <div class="panel" id="three-panel">
-                                <!-- <div class="panel-title">Note on Prerequisites</div> -->
-                                <p>Refere-se ao quanto os leitores consideram aquela obra como <b>favorita</b>, se <b>estão
-                                    lendo no momento</b> ou <b>pretendem lê-la</b>.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <figure class="highcharts-figure">
-                        <div id="fa_diagram"></div>
-                    </figure>
-                </div>
-            </div>
-        </div>
+        
 
         <!-- Introduction -->
         <div class="container--lg">
@@ -468,6 +475,7 @@
 
     <!-- Scroll reveal -->
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+    <script src="https://code.highcharts.com/modules/annotations.js"></script>
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/highcharts-more.js"></script>
     <script src="https://code.highcharts.com/modules/sankey.js"></script>
@@ -485,7 +493,8 @@
 
     <!-- The compiled JavaScript file -->
     <script src="js/seriesTemporais.js"></script>
-    <script src="js/teste.js"></script>
+    <script src="js/danceability.js"></script>
+
 </body>
 
 </html>
