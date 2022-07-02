@@ -194,7 +194,7 @@ Highcharts.chart('seriesTemporais', {
             text: 'Semana'
         },
         categories: dates.map(date => {
-          return Highcharts.dateFormat('%e. %b', new Date(date).getTime());
+          return Highcharts.dateFormat('%e. %b %Y', new Date(date).getTime());
         }),
         label: {
           enabled: false

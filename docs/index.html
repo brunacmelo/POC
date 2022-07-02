@@ -96,47 +96,31 @@
             </div>
         </div>
 
-        <!-- <div class="container--lg pb1">
+        <div class="container--lg pb1">
             <div class="border--bottom grid-row grid-row--center" id="donwloads">
                 <div class=" grid-column mt3 mb2 order-2">
-                    <div class="border--bottom pb2 mb2">
+                    <div class="pb2 mb2">
                         <h2>Dados</h2>
-                        <h3>PPORTAL <a href="https://doi.org/10.5281/zenodo.5178063"><img
-                                    src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5178063-437a67"
-                                    alt="DOI"></a> </h3>
-                        <h4>Public domain Portuguese-language literature Dataset</h4>
-                        <p align="justify">Neste projeto, usaremos o PPORTAL, um dataset aberto de literatura de língua
-                            portuguesa
-                            de domínio público. O <a href="https://sol.sbc.org.br/index.php/dsw/article/view/17416">PPORTAL</a> é composto por três bibliotecas digitais para obras de
-                            domínio
-                            público principalmente do Brasil e Portugal: <a href="https://www.dominiopublico.gov.br">Domínio Público</a>, <a href="https://projectoadamastor.org">Projecto Adamastor</a>, e <a href="https://www.literaturabrasileira.ufsc.br">Biblioteca Digital de Literatura de Países Lusófonos (BLPL)</a>. Tais informações heterogêneas foram integradas
-                            usando a API <a href="https://www.goodreads.com/">Goodreads</a> e uma abordagem de correspondência difusa, que resulta em 2.388 obras
-                            exclusivas. Os IDs das obras no conjunto de dados integrado permitem coletar informações
-                            adicionais de elementos essenciais do ecossistema da indústria do livro: obras, autores,
-                            leitores e
-                            resenhas. </p>
-                    </div>
+                        <h3>Spotify</h3>
+                        <p align="justify">Os dados utilizados nesse trabalho foram o  TOP Chart do Brasil semanal e diário no período de (2019-2021).
+                            Usou-se a <a href="https://charts.spotify.com/home">API do Spotify</a> que fornece os CSVs, contendo o nome da música, os artistas e posição no ranking.
+                            Para a primeira análise, utilizou-se também as features disponibilizadas pelo <a href="https://developer.spotify.com/discover/">Spotify for developers</a>, com foco
+                            nas relacionadas ao mood: danceability, valence e energy.
 
-                    <div class="inline-block mr1 no-mr-on-mobile" style="width:280px;max-width:100%">
-                        <div class="select mb1">
-                            <select id="filename">
-                                </option>
-                                <option value="https://zenodo.org/record/5178063/files/PPORTAL.zip?download=1">CSVs
-                                </option>
-                                <option value="https://zenodo.org/record/5178063/files/PPORTAL.dump.sql?download=1">Dump
-                                    SQL
-                            </select>
-                        </div>
-                    </div>
-                    <input type="button" onclick="window.location.href=document.getElementById('filename').value"
-                        value="Download" class="btn btn--secondary" />
+                            <ul align="left" style="margin-left: 30px;font-size:110%;">
+                                <li><b>Danceability: </b>quão dançável é uma música, variando de 0-1</li>
+                                <li><b>Valence: </b>mede a positividade da música, variando de 0-1</li>
+                                <li><b>Energy: </b>mede a energia da música, variando de 0-1</li>
+                            </ul>
 
+                        </p>
+                    </div>
                 </div>
                 <div class="grid-column mt3 mb2 order-1 reveal-on-scroll is-revealing">
-                    <img src="img/downloads.svg" alt="Usage data">
+                    <img src="img/spotify-1280x720-1.jpg" alt="Usage data">
                 </div>
             </div>
-        </div> -->
+        </div>
 
         <!-- Introduction -->
         <div class="container--lg pt1 ">
@@ -145,63 +129,77 @@
                     <h2>Análise das Features do Spotify</h2>
 
                     <p align="justify" style="font-size:110%;">
-                        Durante o POC 1 foi feito uma análise sobre as features disponibilizadas pelo próprio Spotify. São elas:
-                        <b>danceability</b>, <b>energy</b> e <b>valence</b>. 
+                        Durante o POC 1 foi feito uma análise sobre as features disponibilizadas pelo Spotify. Para isso, foram feitas séries
+                        temporais avaliando a mudança com o tempo dessas features.
                     </p>
                     <br>
-                    <!-- <ul align="left" style="margin-left: 30px;font-size:110%;">
-                        <li>O que torna um livro reconhecido?</li>
-                        <li>O que torna um livro popular?</li>
-                        <li>O que torna um livro interessante?</li>
-                    </ul> -->
                     <figure class="highcharts-figure">
                         <div id="seriesTemporais"></div>
                     </figure>
+                    <p align="justify" style="font-size:110%;">
+                        O gráfico acima mostra uma clara correlação entre <i>energy</i> e a <i>danceability</i>, mas também observamos um comportamento parecido entre todas 
+                        as efatures, especialmente no ano de 2021.
+                    </p>
+                    <br>
+                    <p align="justify" style="font-size:110%;">
+                        Com o objetivo de aprofundarmos nessa análise, foram feitos também gráficos referentes à variação diária dessas features, em alguns
+                        messes com datas chaves, como Março de 2020, que foi quando teve o primeiro caso no Brasil; Julho de 2020 correspondendo ao Pico da Primeira primeira
+                        onda no Brasil e em Janeiro de 2021, relativo ao início da vacinação.
+                    </p>
                 </div>
             </div>
         </div>
         
-        <div class="container pt1 mt2 text--gray align--center " id="features">
+        <div class="container pt1 mt2 align--center " id="features">
             <div class="grid-row">
                 <div class="grid-column span-one-second reveal-on-scroll is-revealing">
                     <div class="warpper">
                         <input class="radio" id="one" name="group" type="radio" checked>
                         <input class="radio" id="two" name="group" type="radio">
                         <input class="radio" id="three" name="group" type="radio">
+                        <input class="radio" id="four" name="group" type="radio">
                         <div class="tabbs">
-                            <label class="tabb" id="one-tabb" for="one">Danceability</label>
-                            <label class="tabb" id="two-tabb" for="two">Valence</label>
-                            <label class="tabb" id="three-tabb" for="three">Energy</label>
-                            
+                            <label class="tabb" id="one-tabb" for="one">Anual</label>
+                            <label class="tabb" id="two-tabb" for="two">Março de 2020</label>
+                            <label class="tabb" id="three-tabb" for="three">Julho de 2020</label>
+                            <label class="tabb" id="four-tabb" for="four">Janeiro de 2021</label>
                         </div>
                         <div class="panels">
                             <div class="panel" id="one-panel">
-                                <!-- <div class="panel-title">Why Learn CSS?</div> -->
-                                <p>Refere-se à importância de uma obra ser <b>considerada</b> e <b>avaliada</b> pelos
-                                    leitores. Pode ser medido através da <em>média de avaliações</em> de uma obra.</p>
-                                    <img src="img/danceability_semanal_datas.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/danceability_medias.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/valence_medias.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/energy_medias.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
                             </div>
                             <div class="panel" id="two-panel">
-                                <!-- <div class="panel-title">Take-Away Skills</div> -->
-                                <p>Refere-se ao quanto uma obra foi <b>lida</b> e <b>avaliada</b> pelos usuários de forma
-                                    textual. Pode ser medida através do <em>total de resenhas textuais e avaliações</em> de uma obra.
-                                </p>
-                                <img src="../data/plots/valence_semanal_anual.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
-
+                                <img src="img/danceability_marco.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/valence_marco.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/energy_marco.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
                             </div>
                             <div class="panel" id="three-panel">
-                                <!-- <div class="panel-title">Note on Prerequisites</div> -->
-                                <p>Refere-se ao quanto os leitores consideram aquela obra como <b>favorita</b>, se <b>estão
-                                    lendo no momento</b> ou <b>pretendem lê-la</b>.</p>
-                                <img src="../data/plots/energy_semanal_datas.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/danceability_junho.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/valence_junho.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/energy_junho.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                            </div>
+
+                            <div class="panel" id="four-panel">
+                                <img src="img/danceability_janeiro.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/valence_janeiro.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
+                                <img src="img/energy_janeiro.png" alt="Usage data" width="80%" style="display: block;margin: auto;">
                             </div>
                         </div>
                     </div>
-                    <figure class="highcharts-figure">
-                        <div id="fa_diagram"></div>
-                    </figure>
                 </div>
             </div>
+            <br>
+            <p align="justify" style="font-size:110%;">
+                Podemos perceber uma queda nos valores durante a semana do dia 30/07/2020, que coicide com o Pico da Primeira Onda. Bem como, 
+                é possível perceber um aumento na <i>danceability</i> no início de 2021, coicidindo com o Início da Vacinação no país. Esses dados, 
+                quando comparados a 2019, apontam de fato, uma mudança na dançabilidade média nesses dois períodos.
+                Da mesma forma, podemos ver na distribuição da <i>valence</i> média pelo tempo,
+                valores abaixo da média após o início da pandemia no Brasil e valores mais altos com o início da vacinação. 
+                Esses resultados se assemelham aos mostrados aos gráficos anuais em que é possível observar, em especial, um aumento nas features
+                no começo de 2021, coicidindo com o período do início da vacinação no Brasil.
+            </p>
         </div>
 
         <!-- Introduction -->
@@ -246,17 +244,19 @@
             <div class="grid-column span-one-second reveal-on-scroll is-revealing">
                 <div class="tabs">
                     <input type="radio" name="tabs" id="tabone">
-                    <label for="tabone" id="tabone-content">Formato de Livros</label>
+                    <label for="tabone" id="tabone-content">Março 2020</label>
                     <div class="tab" id="tabone-content">
                         <div class="background-color-1">
-                            <figure class="highcharts-figure">
                                 <!-- <div id="bar1" style="min-width: 33%; height: 350px; float:left;"></div>
                                 <div id="bar13" style="min-width: 33%; height: 350px; float:left;"></div>
                                 <div id="bar7" style="min-width: 33%; height: 350px; float:left;"></div> -->
-                                <div id="bar14" style="min-width: 33%; height: 350px; float:left;"></div>
-                                <div id="bar8" style="min-width: 33%; height: 350px; float:left;"></div>
-                                <div id="bar2" style="min-width: 33%; height: 350px; float:left;"></div>
-                            </figure>
+                            <div style="min-width: 33%;">
+                                <img src="../data/plots/medias_marco_dataschaves.png" />
+                            </div>
+                            <div style="min-width: 33%; height:">
+                                <img src="../data/plots/valence_marco.png" />
+                            </div>
+                            <div style="min-width: 33%; height: 350px; float:left;"></div>
                         </div>
                     </div>
                 

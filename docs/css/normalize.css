@@ -54,7 +54,7 @@ pre {
 a {
 	background-color: transparent;
 	-webkit-text-decoration-skip: objects;
-	color: #ca3078
+	color: #c770bb
 }
 
 a:hover {
@@ -481,7 +481,7 @@ html {
 }
 
 body {
-	background-color: #ffe8f3!important;
+	background-color: #dfe7f7!important;
 	color: #0e1c30;
 	line-height: 1.6rem;
 	margin: 0;
@@ -652,8 +652,8 @@ fieldset[disabled] a.btn {
 .container {
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 900px;
-	width: 90%
+	/* max-width: 900px; */
+	width: 80%
 }
 
 .container--lg {
@@ -1389,31 +1389,31 @@ hr {
 }
 
 .border--full {
-	border-color: #CCC5B9;
+	border-color: #b9bdcc;
 	border-style: solid;
 	border-width: 1px
 }
 
 .border--top {
-	border-top-color: #CCC5B9;
+	border-top-color: #b9bdcc;
 	border-top-style: solid;
 	border-top-width: 1px
 }
 
 .border--right {
-	border-right-color: #CCC5B9;
+	border-right-color: #b9bdcc;
 	border-right-style: solid;
 	border-right-width: 1px
 }
 
 .border--bottom {
-	border-bottom-color: #CCC5B9;
+	border-bottom-color: #b9bdcc;
 	border-bottom-style: solid;
 	border-bottom-width: 1px
 }
 
 .border--left {
-	border-left-color: #CCC5B9;
+	border-left-color: #b9bdcc;
 	border-left-style: solid;
 	border-left-width: 1px
 }
@@ -2098,7 +2098,7 @@ input[type="number"] {
 	cursor: pointer;
 	padding: 10px 20px;
 	margin: 0px 2px;
-	background: #ffb95c;
+	background: #4078ad;
 	color: #FFFCF2;
 	font-weight: bold;
 	display: inline-block;
@@ -2148,16 +2148,18 @@ input[type="number"] {
 
 #one:checked~.panels #one-panel,
 #two:checked~.panels #two-panel,
-#three:checked~.panels #three-panel {
+#three:checked~.panels #three-panel,
+#four:checked~.panels #four-panel {
 	display: block
 }
 
 #one:checked~.tabbs #one-tabb,
 #two:checked~.tabbs #two-tabb,
-#three:checked~.tabbs #three-tabb {
+#three:checked~.tabbs #three-tabb,
+#four:checked~.tabbs #four-tabb {
 	background: #fffffff6;
-	color: #ffb95c;
-	border-top: 3px solid #ffb95c;
+	color: #4078ad;
+	border-top: 3px solid #4078ad;
 }
 
 .tabs {
@@ -2170,7 +2172,7 @@ input[type="number"] {
 	padding: 1rem 2rem;
 	margin-right: 0.2rem;
 	cursor: pointer;
-	background: #ffb95c;
+	background: #4078ad;
 	font-weight: bold;
 	transition: background ease 0.2s;
 }
