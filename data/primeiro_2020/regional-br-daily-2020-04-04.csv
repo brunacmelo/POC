@@ -1,201 +1,201 @@
-rank	uri	artist_names	track_name	source	peak_rank	previous_rank	days_on_chart	streams	ID
-1	spotify:track:3tv697PZNnaQN0Mn2zGhS5	Gusttavo Lima	A Gente Fez Amor - Ao Vivo	Sony Music Entertainment	1	2	121	786017	3tv697PZNnaQN0Mn2zGhS5
-2	spotify:track:3Ghyp3X5Ua9ypHnBIgOObI	Henrique & Juliano	Liberdade Provisória - Live - Ibirapuera / 2019	Virgin Music Label And Artist Services (S&D)	1	3	121	706820	3Ghyp3X5Ua9ypHnBIgOObI
-3	spotify:track:2WlZuBDgLfT7Kc0admhFdg	Luísa Sonza	BRABA	Universal Music Ltda.	1	1	18	669782	2WlZuBDgLfT7Kc0admhFdg
-4	spotify:track:2PWjKmjyTZeDpmOUa3a5da	Jorge & Mateus	Cheirosa - Ao Vivo	Som Livre	3	9	177	567891	2PWjKmjyTZeDpmOUa3a5da
-5	spotify:track:5W1kqz2l1lDX77DXBMeXZg	Matheus & Kauan	Litrão - Ao Vivo Em Recife / 2020	Universal Music Ltda.	3	6	65	529853	5W1kqz2l1lDX77DXBMeXZg
-6	spotify:track:3tc8Z4lGzOIwmIVftsxO6o	Marília Mendonça	Graveto - Ao Vivo	Som Livre	3	7	86	523483	3tc8Z4lGzOIwmIVftsxO6o
-7	spotify:track:3PfIrDoz19wz7qK7tYeu62	Dua Lipa	Don't Start Now	Warner Records	1	4	156	509617	3PfIrDoz19wz7qK7tYeu62
-8	spotify:track:3J5Pu25BODMex4Jpy4l6FL	Luíza & Maurílio, Zé Neto & Cristiano	S de Saudade	Som Livre	6	8	156	508769	3J5Pu25BODMex4Jpy4l6FL
-9	spotify:track:0RaIjuKU5hudMteEXwr4RS	Jorge & Mateus	Ranking	Som Livre	9	11	30	499512	0RaIjuKU5hudMteEXwr4RS
-10	spotify:track:1K7WzjKDcDdVbKNGrB0gej	Major Lazer, MC Lan, Anitta, BEAM	Rave de Favela (feat. BEAM)	WM Brazil	2	5	50	493424	1K7WzjKDcDdVbKNGrB0gej
-11	spotify:track:2Q9TaUXNM4mNSCgJjbmsJe	Zé Neto & Cristiano	Bebi Minha Bicicleta (Coração Falido) - Ao Vivo	Som Livre	4	13	128	442624	2Q9TaUXNM4mNSCgJjbmsJe
-12	spotify:track:6QwFUcPc5nhsqZuhXUYtV7	Jorge & Mateus	Tijolão - Ao Vivo	Som Livre	1	23	317	436786	6QwFUcPc5nhsqZuhXUYtV7
-13	spotify:track:4lKuzrdZrJuCAedbIslF3A	PEDRO SAMPAIO, Felipe Original, JS o Mão de Ouro	SENTADÃO	WM Brazil	2	10	135	424685	4lKuzrdZrJuCAedbIslF3A
-14	spotify:track:5L8ZEyIdZ2KE4Wf51SsuOF	Gustavo Mioto	Com Ou Sem Mim - Ao Vivo	Universal Music Ltda.	5	15	135	406652	5L8ZEyIdZ2KE4Wf51SsuOF
-15	spotify:track:1uryupl9hqVZYurJwH4G9k	Guilherme & Benuto	3 Batidas - Ao Vivo	Sony Music Entertainment	8	19	224	402279	1uryupl9hqVZYurJwH4G9k
-16	spotify:track:1rgnBhdG2JDFTbYkYRZAku	Tones And I	Dance Monkey	Elektra (NEK)	5	12	195	391327	1rgnBhdG2JDFTbYkYRZAku
-17	spotify:track:4p8pEdPYOQLzJUKYrLOacy	WC no Beat, PEDRO SAMPAIO, FP do Trem Bala	BALANÇA (feat. Pedro Sampaio)	Sony Music Entertainment	8	14	65	383397	4p8pEdPYOQLzJUKYrLOacy
-18	spotify:track:7Ac3BmqTQoLdAt7HtZyfgN	DENNIS, Mc Don Juan	Te Prometo	Sony Music Entertainment	14	16	57	382930	7Ac3BmqTQoLdAt7HtZyfgN
-19	spotify:track:63SHcJzckFykS8faA5zojY	MC Ingryd, DJ Henrique da VK	Vem Me Satisfazer	MC Ingryd	4	17	123	371023	63SHcJzckFykS8faA5zojY
-20	spotify:track:7o9LwQmTuIDm4LyyHFIWul	Henrique & Juliano	Volta Por Baixo - Ao Vivo	Virgin Music Label And Artist Services (S&D)	16	20	86	370134	7o9LwQmTuIDm4LyyHFIWul
-21	spotify:track:3GmJxfnUDrIs1iCfKUELFz	Marília Mendonça	Supera - Ao Vivo	Som Livre	1	24	233	368168	3GmJxfnUDrIs1iCfKUELFz
-22	spotify:track:4HUZBG98TYbxSR9V1V2DWS	Thiaguinho MT, Mila, JS o Mão de Ouro	Tudo Ok	Sony Music Entertainment	1	21	97	357647	4HUZBG98TYbxSR9V1V2DWS
-23	spotify:track:60wF0XnX7A0jVpDNA5v8vi	Vytinho NG, Bianca	Tudo no Sigilo	Vytinho Ng	18	18	18	352458	60wF0XnX7A0jVpDNA5v8vi
-24	spotify:track:6nI98wtHOJAYSASq22TCYu	Luan Santana	água com açúcar - ao vivo	Som Livre	22	22	20	329393	6nI98wtHOJAYSASq22TCYu
-25	spotify:track:2bPtwnrpFNEe8N7Q85kLHw	Anitta, Lexa, Luísa Sonza, Rebecca	Combatchy (feat. MC Rebecca)	WM Brazil	1	25	137	329166	2bPtwnrpFNEe8N7Q85kLHw
-26	spotify:track:146Vb458Y5RbqEa0fYFPzm	Felipe Araújo	Mentira - Ao Vivo	Universal Music Ltda.	21	28	124	318702	146Vb458Y5RbqEa0fYFPzm
-27	spotify:track:6lK3nCiigk34SGqEjpQoqO	Maiara & Maraisa	Aí Eu Bebo - Ao Vivo	Som Livre	13	30	170	318189	6lK3nCiigk34SGqEjpQoqO
-28	spotify:track:4j2bK4fnc2s6GyVmhJsJhk	Henrique & Juliano	Briga Feia - Ao Vivo	Virgin Music Label And Artist Services (S&D)	24	31	114	292615	4j2bK4fnc2s6GyVmhJsJhk
-29	spotify:track:4UUtssVRs2aQTLQCAAtZg1	Jorge & Mateus	Mil Anos - Recorded At Mosh Studios, São Paulo	Som Livre	29	47	117	287436	4UUtssVRs2aQTLQCAAtZg1
-30	spotify:track:24Yi9hE78yPEbZ4kxyoXAI	SAINt JHN, Imanbek	Roses - Imanbek Remix	Columbia/B1 Recordings	26	26	37	281725	24Yi9hE78yPEbZ4kxyoXAI
-31	spotify:track:2PqPSf3gtTED79rWGwVtYg	Diego & Victor Hugo	Áudio - Ao Vivo em Brasília	Sony Music Entertainment	30	39	267	276395	2PqPSf3gtTED79rWGwVtYg
-32	spotify:track:3WjSkl7VDWY1prwJw7dSG0	Zé Neto & Cristiano	Barzinho Aleatório - Ao Vivo	Som Livre	32	37	121	276191	3WjSkl7VDWY1prwJw7dSG0
-33	spotify:track:1MmS7UIy3J1BTxfGCRvVqN	Gusttavo Lima	Carreira Solo - Ao Vivo	Sony Music Entertainment	21	40	156	273568	1MmS7UIy3J1BTxfGCRvVqN
-34	spotify:track:2MOq63fxuFLYQM3CsDcFs1	GIULIA BE	menina solta	WM Brazil	10	29	180	272711	2MOq63fxuFLYQM3CsDcFs1
-35	spotify:track:5q0NlM6Pm8Pp3orq7zGiRn	Matheus & Kauan, Jorge & Mateus	Quarta Cadeira - Ao Vivo	Universal Music Ltda.	9	44	380	266571	5q0NlM6Pm8Pp3orq7zGiRn
-36	spotify:track:5F8ffc8KWKNawllr5WsW0r	Dadá Boladão, Tati Zaqui, OIK	Surtada - Remix Brega Funk	Sony Music Entertainment	1	36	188	264217	5F8ffc8KWKNawllr5WsW0r
-37	spotify:track:72xB2J9ZeBl0Rzxq2XmzdY	João Gustavo e Murilo, Analaga	Lençol Dobrado	WM Brazil	2	41	517	263924	72xB2J9ZeBl0Rzxq2XmzdY
-38	spotify:track:5n8Y78Pl5q8lqS7sJP61qw	Diego & Arnaldo	Relógio Parado (Ao Vivo)	Sony Music Entertainment	34	43	171	259252	5n8Y78Pl5q8lqS7sJP61qw
-39	spotify:track:14kRWkCWBYfQqILflEcpSJ	Lexa, PEDRO SAMPAIO	Chama Ela (feat. Pedro Sampaio)	Som Livre	5	35	193	258517	14kRWkCWBYfQqILflEcpSJ
-40	spotify:track:017PF4Q3l4DBUiWoXk4OWT	Dua Lipa	Break My Heart	Warner Records	8	27	10	255619	017PF4Q3l4DBUiWoXk4OWT
-41	spotify:track:7vpGKEUPrA4UEsS4o4W1tP	Pabllo Vittar	Amor de Que	Sony Music Entertainment	10	34	156	253950	7vpGKEUPrA4UEsS4o4W1tP
-42	spotify:track:5fY9bVl1Wj4PIM3wnduWop	Marília Mendonça	Serenata - Ao Vivo	Som Livre	14	45	324	251725	5fY9bVl1Wj4PIM3wnduWop
-43	spotify:track:5MArTXEVyKBwoodjdy04fk	Zé Felipe, Gusttavo Lima	Tiro Certo - Ao Vivo	Som Livre	14	48	296	248865	5MArTXEVyKBwoodjdy04fk
-44	spotify:track:0VjIjW4GlUZAMYd2vXMi3b	The Weeknd	Blinding Lights	Republic Records	23	32	99	248137	0VjIjW4GlUZAMYd2vXMi3b
-45	spotify:track:17Ryox5vWKp92IDW87C5PI	Gusttavo Lima	Quem Traiu Levou - Ao Vivo	Sony Music Entertainment	14	49	206	232706	17Ryox5vWKp92IDW87C5PI
-46	spotify:track:0nbXyq5TXYPCO7pr3N8S4I	Roddy Ricch	The Box	Atlantic Records	26	38	85	230733	0nbXyq5TXYPCO7pr3N8S4I
-47	spotify:track:1AfNdxHdE4OLcnQUyC6j3i	MC JottaPê, MC Kekel, MC Kevinho	Eterna Sacanagem	KondZilla Records	19	46	170	223834	1AfNdxHdE4OLcnQUyC6j3i
-48	spotify:track:3AzjcOeAmA57TIOr9zF1ZW	Dua Lipa	Physical	Warner Records	11	33	62	221705	3AzjcOeAmA57TIOr9zF1ZW
-49	spotify:track:7eJMfftS33KTjuF7lTsMCx	Powfu, beabadoobee	death bed (coffee for your head)	Columbia	37	42	27	215748	7eJMfftS33KTjuF7lTsMCx
-50	spotify:track:1U3tv41tFRgOfbytpuYQrR	Zé Neto & Cristiano	Ferida Curada	Som Livre	4	52	261	203686	1U3tv41tFRgOfbytpuYQrR
-51	spotify:track:15Dl8e6gdR0I1IQn0M4SGi	Simone & Simaria	Amoreco	Universal Music Ltda.	8	54	51	200354	15Dl8e6gdR0I1IQn0M4SGi
-52	spotify:track:3vSXPjfcebTt5mB8DXHWM6	Wesley Safadão	Dois Lados	Som Livre	37	53	240	199446	3vSXPjfcebTt5mB8DXHWM6
-53	spotify:track:5LpLYzpV0HWKI2DlPmNywg	Wesley Safadão, Zé Neto & Cristiano	Despedida - Ao Vivo	Som Livre	53	62	2	195188	5LpLYzpV0HWKI2DlPmNywg
-54	spotify:track:2TR917wkDeRvwTE5cSfZFf	Humberto & Ronaldo, Matheus & Kauan	Tchau Brigado - Ao Vivo	Humberto e Ronaldo	46	59	94	191710	2TR917wkDeRvwTE5cSfZFf
-55	spotify:track:5dKesZwp6deuhEeW8F1UEi	Felipe Original, MC Kevin o Chris, Sodré, JS o Mão de Ouro	Hit Contagiante	Tudo Nosso Produtora	1	55	250	186362	5dKesZwp6deuhEeW8F1UEi
-56	spotify:track:7qpXCkcr3Zj4LDvdiWryns	Diego & Victor Hugo	Erro Antigo - Ao Vivo	Sony Music Entertainment	53	60	72	184080	7qpXCkcr3Zj4LDvdiWryns
-57	spotify:track:2KyXyTrp3kp1Fsg7B1osYD	Yasmin Santos, Marília Mendonça	Para, Pensa e Volta - Ao Vivo	Sony Music Entertainment	19	65	282	183989	2KyXyTrp3kp1Fsg7B1osYD
-58	spotify:track:2uhBCMHwS3SATOHIgM2KPF	Zé Neto & Cristiano	Textão - Ao Vivo	Som Livre	52	58	37	182354	2uhBCMHwS3SATOHIgM2KPF
-59	spotify:track:4pnlRYoaaGu24SuC3et5Pv	Yasmin Santos, Wesley Safadão	Saudade em Gotas (feat. Wesley Safadão) - Ao Vivo	Sony Music Entertainment	59	70	201	180656	4pnlRYoaaGu24SuC3et5Pv
-60	spotify:track:1Nmcs8zk7LfcvHRgLtTM5J	Orochi, Papatinho	Amor de Fim de Noite	Mainstreet Records	47	50	140	178446	1Nmcs8zk7LfcvHRgLtTM5J
-61	spotify:track:23zmMwD99ROi9yhxqMxWil	João Bosco & Vinicius, Matheus	Segunda Taça - Ao Vivo	João Bosco & Vinicius	61	61	44	178296	23zmMwD99ROi9yhxqMxWil
-62	spotify:track:7ArNH109yIfwIquJ535fsi	Marcos & Belutti, Gaab	Certo e Duvidoso (feat. Gaab) - Ao Vivo	Sony Music Entertainment	55	66	67	177087	7ArNH109yIfwIquJ535fsi
-63	spotify:track:6sRLrSetyIwIKhW1eMlUNP	Matheus & Kauan, Marília Mendonça	Vou Ter Que Superar - Ao Vivo	Universal Music Ltda.	2	67	380	177005	6sRLrSetyIwIKhW1eMlUNP
-64	spotify:track:3Uq45ipGutypFPmETfaoaH	MC Du Black, DJ 2F	Gaiola É o Troco	EP MIX Editora	1	56	251	176806	3Uq45ipGutypFPmETfaoaH
-65	spotify:track:159ntSAEWJ9zIMOSXmQ530	Luan Santana	choque térmico - ao vivo	Som Livre	11	74	226	172528	159ntSAEWJ9zIMOSXmQ530
-66	spotify:track:5FFpRbsH9WDYNoLauRAHpj	MC Kevinho, Dadá Boladão, MC JottaPê	Paredão	WM Brazil	18	57	104	169833	5FFpRbsH9WDYNoLauRAHpj
-67	spotify:track:6t4GFrRJgdMijBL8qMU184	Jorge & Mateus	Tela Preta	Som Livre	53	114	15	167782	6t4GFrRJgdMijBL8qMU184
-68	spotify:track:4jGzR5Vri06Y5T9SxM7m5P	Xand Avião, Gusttavo Lima	Algo Mais (Amante) - Ao Vivo	Som Livre	10	86	326	167057	4jGzR5Vri06Y5T9SxM7m5P
-69	spotify:track:4RC2nzqaQygxoVQOVv3XlT	Leo Santana, Anitta	Contatinho - Ao Vivo	Universal Music Ltda.	5	75	212	165148	4RC2nzqaQygxoVQOVv3XlT
-70	spotify:track:3nsKjzNGp8ForQahgMo2JV	Henrique & Juliano	Amor Atual - Ao Vivo	Virgin Music Label And Artist Services (S&D)	51	51	2	162901	3nsKjzNGp8ForQahgMo2JV
-71	spotify:track:08Sd5vVcIH3uKeAiaJdoYj	Lauana Prado	Viva Voz - Ao Vivo Em São Paulo / 2019	Universal Music Ltda.	71	84	30	159270	08Sd5vVcIH3uKeAiaJdoYj
-72	spotify:track:2RMOwSvOGQyy985Vx4VSGQ	LUDMILLA, Topo La Maskara, Walshy Fire	Verdinha	WM Brazil	8	76	128	158545	2RMOwSvOGQyy985Vx4VSGQ
-73	spotify:track:74n5d5M21JnC4WJ6gdkggK	Jorge & Mateus	Propaganda - Ao Vivo	Som Livre	1	154	614	157447	74n5d5M21JnC4WJ6gdkggK
-74	spotify:track:7x2PPGgAptvKQI2Aw8XIY0	Jorge & Mateus	Quase Sem Querer - Recorded At Mosh Studios, São Paulo	Som Livre	74	119	14	155529	7x2PPGgAptvKQI2Aw8XIY0
-75	spotify:track:4Y7ay3naWoluoOM3xIj1UZ	LUDMILLA	A boba fui eu - Recorded At Mosh Studios, São Paulo	WM Brazil	68	78	18	150764	4Y7ay3naWoluoOM3xIj1UZ
-76	spotify:track:1G60NjxeOS7veR1EXuKPaW	Gustavo Mioto	Fake News - Ao Vivo Em São Paulo / 2019	Universal Music Ltda.	18	89	332	150112	1G60NjxeOS7veR1EXuKPaW
-77	spotify:track:098MRSXb4tj5EDVSUSpHIn	Jorge & Mateus	Instantes	Som Livre	52	132	14	149469	098MRSXb4tj5EDVSUSpHIn
-78	spotify:track:4Clmg1g8n2yBYG13Z1oSdG	Dayvi, Victor Cardenas, Kelly Ruíz	Baila Conmigo (feat. Kelly Ruiz)	Sony Music México	53	79	95	147213	4Clmg1g8n2yBYG13Z1oSdG
-79	spotify:track:7CHi4DtfK4heMlQaudCuHK	MEDUZA, Becky Hill, Goodboys	Lose Control	Virgin	55	72	121	146924	7CHi4DtfK4heMlQaudCuHK
-80	spotify:track:2rRJrJEo19S2J82BDsQ3F7	Trevor Daniel	Falling	Alamo	53	68	114	146920	2rRJrJEo19S2J82BDsQ3F7
-81	spotify:track:4gDvg62vG96w0qJaF6wzcd	Diego & Victor Hugo, Zé Neto & Cristiano	A Culpa é do Meu Grau (feat. Zé Neto & Cristiano) - Ao Vivo em Brasília	Sony Music Entertainment	14	97	380	146907	4gDvg62vG96w0qJaF6wzcd
-82	spotify:track:2qD7VoDYcrAPY0cVEfpsR5	Anitta, Marília Mendonça	Some que ele vem atrás	WM Brazil	2	91	158	146329	2qD7VoDYcrAPY0cVEfpsR5
-83	spotify:track:127QTOFJsJQp5LbJbu3A1y	Drake	Toosie Slide	OVO	83	94	2	146251	127QTOFJsJQp5LbJbu3A1y
-84	spotify:track:3oqC4Ta40ft6NnTJwcUTdi	Rashid, Lukinhas, Emicida	Pipa Voada (feat. Emicida)	Sony Music Entertainment	61	69	28	145789	3oqC4Ta40ft6NnTJwcUTdi
-85	spotify:track:59WWulo1LM0njpIkcduCMn	Atitude 67	Tão Linda	Universal Music Ltda.	35	82	245	145367	59WWulo1LM0njpIkcduCMn
-86	spotify:track:3Dv1eDb0MEgF93GpLXlucZ	Doja Cat	Say So	Kemosabe Records/RCA Records	51	63	42	145361	3Dv1eDb0MEgF93GpLXlucZ
-87	spotify:track:2Yz14TQlxNXHmnkml4TyDL	Gabi Martins	Neném - Ao Vivo	Gabi Martins	58	64	15	142166	2Yz14TQlxNXHmnkml4TyDL
-88	spotify:track:4E6RdcCWMiHTu7zy1VTNDo	Marília Mendonça	Todo Mundo Vai Sofrer - Ao Vivo	Som Livre	1	100	324	141965	4E6RdcCWMiHTu7zy1VTNDo
-89	spotify:track:6v3KW9xbzN5yKLt9YKDYA2	Shawn Mendes, Camila Cabello	Señorita	Island Records	2	80	289	141855	6v3KW9xbzN5yKLt9YKDYA2
-90	spotify:track:7k4t7uLgtOxPwTpFmtJNTY	KAROL G, Nicki Minaj	Tusa	TUSA - Karol G & Nicki Minaj	38	73	92	141788	7k4t7uLgtOxPwTpFmtJNTY
-91	spotify:track:6toDZSoqG5QUitFsoxavRy	Vitão, Anitta	Complicado	Universal Music Ltda.	8	77	184	141465	6toDZSoqG5QUitFsoxavRy
-92	spotify:track:5STHFaWYO1KeyITjvB4hR8	Marília Mendonça	Tentativas	Som Livre	20	88	51	140168	5STHFaWYO1KeyITjvB4hR8
-93	spotify:track:3rDAHk73LZmgJIyGZstWQ0	Pixote	Nem de Graça / Saudade Arregaça - Ao Vivo	GR Shows	51	104	219	137002	3rDAHk73LZmgJIyGZstWQ0
-94	spotify:track:6mdU8glNHYdBBj5DuKSL1B	Gusttavo Lima	Perrengue - Ao Vivo	Sony Music Entertainment	15	107	184	134485	6mdU8glNHYdBBj5DuKSL1B
-95	spotify:track:7sYAS4CpbV90oSemgaEQat	Alok, Dynoro	On & On	Columbia/B1 Recordings	66	87	134	134473	7sYAS4CpbV90oSemgaEQat
-96	spotify:track:2GfxgssRHvY1azHtaRqKoK	Jorge & Mateus	Paredes - Ao Vivo	Som Livre	14	-1	460	133081	2GfxgssRHvY1azHtaRqKoK
-97	spotify:track:7Gk5OrMYaMRtT2JmgJVAfk	ANAVITÓRIA, Vitor Kley	Pupila	Universal Music Ltda.	14	81	275	133004	7Gk5OrMYaMRtT2JmgJVAfk
-98	spotify:track:72N0CRIAqjETbhghrkCUW2	Murilo Huff, Marília Mendonça	Dois Enganados	Artinvox	41	109	310	131882	72N0CRIAqjETbhghrkCUW2
-99	spotify:track:48CAeajgzcGJaVUSsXd7h0	Guilherme & Benuto, Israel & Rodolffo	Declaração pro Bar - Ao Vivo	Sony Music Entertainment	90	103	49	130640	48CAeajgzcGJaVUSsXd7h0
-100	spotify:track:3MkdA6vwF0ifRl86yzTlJW	Matuê	Kenny G	Sony Music Entertainment	5	85	213	128491	3MkdA6vwF0ifRl86yzTlJW
-101	spotify:track:31yFXM26dazFnWI2eoOM5R	MC G15, Mc Livinho	Ela Vem	GR6 Music	21	98	289	128415	31yFXM26dazFnWI2eoOM5R
-102	spotify:track:7qEHsqek33rTcFNT9PFqLf	Lewis Capaldi	Someone You Loved	Vertigo Berlin	60	83	220	125620	7qEHsqek33rTcFNT9PFqLf
-103	spotify:track:1xyVMQx51Kab6eLVtE6twx	Lauana Prado, Maiara & Maraisa	Cobaia	Universal Music Ltda.	6	115	604	123896	1xyVMQx51Kab6eLVtE6twx
-104	spotify:track:67mqU3FeErlvWwsxnMfvQo	MC Du Black, Delacruz	Tudo Aconteceu	Universal Music Ltda.	88	96	10	123729	67mqU3FeErlvWwsxnMfvQo
-105	spotify:track:5U28PY9MekLyCBYtLHGQpe	Melim	Meu Abrigo	Universal Music Ltda.	1	101	681	123467	5U28PY9MekLyCBYtLHGQpe
-106	spotify:track:5qjMyKkmosPBws5cImS9Zz	Jorge & Mateus	Trincadinho - Ao Vivo	Som Livre	6	-1	408	123302	5qjMyKkmosPBws5cImS9Zz
-107	spotify:track:4rnI4obabjGCPI2CCCs5VR	Felipe Araújo	Hoje Eu Beberei - Ao Vivo	Universal Music Ltda.	58	128	167	122959	4rnI4obabjGCPI2CCCs5VR
-108	spotify:track:7offICpl9kla5kC61uUAs9	MC JottaPê, Lexa	Bate Palma	KondZilla Records	40	108	79	121530	7offICpl9kla5kC61uUAs9
-109	spotify:track:5cN5ZOVcYBl4Lnq50Zeqsx	Matheus & Kauan, Gusttavo Lima	Mágica - Live	Universal Music Ltda.	35	123	380	121248	5cN5ZOVcYBl4Lnq50Zeqsx
-110	spotify:track:24YUl9cgjcEvgJTr2WIT1q	Diego & Arnaldo	Casos Pendentes - Acústico	Sony Music Entertainment	65	137	121	121098	24YUl9cgjcEvgJTr2WIT1q
-111	spotify:track:4umIPjkehX1r7uhmGvXiSV	Justin Bieber, Quavo	Intentions (feat. Quavo)	RBMG/Def Jam	41	90	58	119317	4umIPjkehX1r7uhmGvXiSV
-112	spotify:track:1DmSaQjZkuwFi57KPv20oB	Pabllo Vittar	Rajadão	Sony Music Entertainment	3	92	11	118536	1DmSaQjZkuwFi57KPv20oB
-113	spotify:track:16wAOAZ2OkqoIDN7TpChjR	Justin Bieber	Yummy	RBMG/Def Jam	12	95	93	117952	16wAOAZ2OkqoIDN7TpChjR
-114	spotify:track:2InJDvDcA4RXEeA9njdibl	Jorge & Mateus	Louca de Saudade - Ao Vivo	Som Livre	35	-1	213	116507	2InJDvDcA4RXEeA9njdibl
-115	spotify:track:1p6dBmCdP7xh3OMTYJDZPK	Jorge & Mateus	O Que É Que Tem	Som Livre	115	-1	1	116302	1p6dBmCdP7xh3OMTYJDZPK
-116	spotify:track:2b8fOow8UzyDFAE27YhOZM	Maroon 5	Memories	Interscope Records*	78	105	174	115963	2b8fOow8UzyDFAE27YhOZM
-117	spotify:track:696DnlkuDOXcMAnKlTgXXK	Arizona Zervas	ROXANNE	Arizona Zervas	70	102	132	115749	696DnlkuDOXcMAnKlTgXXK
-118	spotify:track:6AQHdnPnoNoSpCJIO23KsX	MC JottaPê, DJ RD, MC M10	Sentou e Gostou	KondZilla	3	127	255	115084	6AQHdnPnoNoSpCJIO23KsX
-119	spotify:track:49pu85144Xir6PgWjeyJhG	Guilherme & Benuto	Flor Que Se Cheira - Ao Vivo	Sony Music Entertainment	33	146	331	114668	49pu85144Xir6PgWjeyJhG
-120	spotify:track:3RbXsVQr4jeTxvT35Hssq3	Marília Mendonça	Bebi Liguei - Ao Vivo	Som Livre	2	149	476	114664	3RbXsVQr4jeTxvT35Hssq3
-121	spotify:track:5MMrkwK6AgNAsgHVdC7daZ	Dilsinho	Péssimo Negócio (Ao Vivo)	Sony Music Entertainment	14	120	519	114619	5MMrkwK6AgNAsgHVdC7daZ
-122	spotify:track:3NnW2EqJxvHYrRy3upaznl	MC Kevin o Chris, POCAH	Resenha lá em casa	WM Brazil	29	126	275	114304	3NnW2EqJxvHYrRy3upaznl
-123	spotify:track:1Cv1YLb4q0RzL6pybtaMLo	Surfaces	Sunday Best	Surfaces, LLC / TenThousand Projects, LLC	88	99	20	113743	1Cv1YLb4q0RzL6pybtaMLo
-124	spotify:track:3GSGW5pQhHKBmmQLebX3vx	Mc Anônimo	Pagou De Superada	Gufo Records	70	118	114	112805	3GSGW5pQhHKBmmQLebX3vx
-125	spotify:track:22rcaYTa2UgcLCbeO0NoNj	Priscilla Alcantara, Whindersson Nunes	Girassol	Sony Music Entertainment	5	93	115	112713	22rcaYTa2UgcLCbeO0NoNj
-126	spotify:track:5PNvgiKSwMdjBsDsgFCFLX	Maverick Sabre, Jorja Smith, Vintage Culture, Slow Motion	Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix	Spinnin' Deep	71	71	2	111965	5PNvgiKSwMdjBsDsgFCFLX
-127	spotify:track:7HLU2aJTAQfSIgJ2dMASsP	Mc Poze do Rodo, Dj Gabriel do Borel	To Voando Alto	Mc Poze do Rodo	16	125	133	111437	7HLU2aJTAQfSIgJ2dMASsP
-128	spotify:track:15DHt4fP4FARWLvWkIxdAx	Vou pro Sereno, LUDMILLA	Teu Segredo - Ao Vivo	Sony Music Entertainment	72	138	170	109628	15DHt4fP4FARWLvWkIxdAx
-129	spotify:track:42ynW96YtyRkp1nx2vE4g9	Henrique & Juliano	Online - Ao Vivo	Virgin Music Label And Artist Services (S&D)	52	116	16	109368	42ynW96YtyRkp1nx2vE4g9
-130	spotify:track:1qCLx3nX25NuhfPjM5E1qV	Melim	Ouvi Dizer	Universal Music Ltda.	10	121	624	109243	1qCLx3nX25NuhfPjM5E1qV
-131	spotify:track:5aayWOEE7u7bxZ3r7dwIrX	IZA	Meu talismã	WM Brazil	75	106	198	108889	5aayWOEE7u7bxZ3r7dwIrX
-132	spotify:track:21jGcNKet2qwijlDFuPiPb	Post Malone	Circles	Republic Records	32	110	219	108482	21jGcNKet2qwijlDFuPiPb
-133	spotify:track:2I1bHdlKar6igsep1R6H46	Henrique & Juliano	Alô Bebê - Ao Vivo	Virgin Music Label And Artist Services (S&D)	92	136	44	108179	2I1bHdlKar6igsep1R6H46
-134	spotify:track:3mikf8qZaNp6wrrWxHgawH	Pabllo Vittar, Psirico	Parabéns	Sony Music Entertainment	18	112	170	108177	3mikf8qZaNp6wrrWxHgawH
-135	spotify:track:0CgMeXQiNYJxPVQ2EMJxdL	Mc Livinho, Mc Pedrinho	Se Prepara 2	GR6 Music	31	129	170	107623	0CgMeXQiNYJxPVQ2EMJxdL
-136	spotify:track:4k20Ie47EcWtS4wMBn8w8S	LUDMILLA, Leo Santana	Invocada (Participação especial de Léo Santana) - Ao vivo	WM Brazil	10	143	255	107498	4k20Ie47EcWtS4wMBn8w8S
-137	spotify:track:65i9Mc7h1CG7ssI1OhMPcT	Dilsinho	Onze e Pouquinho	Sony Music Entertainment	107	133	170	106799	65i9Mc7h1CG7ssI1OhMPcT
-138	spotify:track:0abrd2vT2W3JZBDNezUY7r	Thiaguinho	Deixa Tudo Como Tá - Ao Vivo	Som Livre	77	142	169	106364	0abrd2vT2W3JZBDNezUY7r
-139	spotify:track:2Fxmhks0bxGSBdJ92vM42m	Billie Eilish	bad guy	Darkroom/Interscope Records	21	111	373	106253	2Fxmhks0bxGSBdJ92vM42m
-140	spotify:track:58Kv71AxpWF6ab0Z76jQId	Jorge & Mateus	Coração Calejado - Ao Vivo	Som Livre	51	-1	60	105980	58Kv71AxpWF6ab0Z76jQId
-141	spotify:track:37hCsK2djczyRGWMjqzbxD	Mc Lele JP, MC Neguinho do Kaxeta	Sou Vitorioso	GR6 Music	90	139	92	105874	37hCsK2djczyRGWMjqzbxD
-142	spotify:track:7D5F5BzIon5zhzQrOU2pdN	Marília Mendonça	Ciumeira - Ao Vivo	Som Livre	1	164	590	104641	7D5F5BzIon5zhzQrOU2pdN
-143	spotify:track:3tu0GkIZwwkmILoD4HemBq	Raí Saia Rodada	Bebe e Vem Me Procurar	Som Livre	36	159	296	103860	3tu0GkIZwwkmILoD4HemBq
-144	spotify:track:13Rf6RaZT13TW4xLQR3MQr	Pineapple StormTv, MC Cabelinho, Bob do Contra, Azzy, Filipe Ret, Dudu, Xamã, Orochi, Maquiny, Salve Malak, Hunter	Poesia Acústica #6: Era uma Vez	Pineapple StormTV	14	113	466	103631	13Rf6RaZT13TW4xLQR3MQr
-145	spotify:track:7N0Py2msno86enR6JPNlpV	Turma do Pagode	Muito Cedo	Sony Music Entertainment	137	148	57	103628	7N0Py2msno86enR6JPNlpV
-146	spotify:track:0rUL7vUZmCKxB0gS83W3aM	Marília Mendonça, Leo Santana, Didá Banda Feminina	Apaixonadinha - Ao Vivo	Som Livre	49	169	324	102830	0rUL7vUZmCKxB0gS83W3aM
-147	spotify:track:1qy7aOHnfnOMJoT1fhoLYG	Marília Mendonça, Gaab	Intenção - Ao Vivo	Som Livre	54	153	233	102370	1qy7aOHnfnOMJoT1fhoLYG
-148	spotify:track:6mnySl4xEnPy0ZBBWSAHc9	Henrique & Juliano	Não Gosto Eu Amo - Ao Vivo	Virgin Music Label And Artist Services (S&D)	53	160	77	102213	6mnySl4xEnPy0ZBBWSAHc9
-149	spotify:track:6cy3ki60hLwimwIje7tALf	Black Eyed Peas, J Balvin	RITMO (Bad Boys For Life)	Epic/We The Best	62	135	147	101802	6cy3ki60hLwimwIje7tALf
-150	spotify:track:0nkDm27DGppCSk8dnGtvPa	POCAH	Não sou obrigada	WM Brazil	14	150	370	101499	0nkDm27DGppCSk8dnGtvPa
-151	spotify:track:5GHA824FwkHeBl5u1T6kLj	Hugo & Guilherme	Namorada Reserva - Ao Vivo	Som Livre	71	187	234	101032	5GHA824FwkHeBl5u1T6kLj
-152	spotify:track:5rNNZ6fVYxkhwqUfImVhU1	IZA	Brisa	WM Brazil	36	145	351	100690	5rNNZ6fVYxkhwqUfImVhU1
-153	spotify:track:26WpOBpHiIMoBuMEIwtOCH	Pk, PK Delas	Quando a vontade bater (Participação especial de PK Delas)	WM Brazil	6	144	387	99731	26WpOBpHiIMoBuMEIwtOCH
-154	spotify:track:2epD7jzjNfrQYxdSaODCvF	Mc Brunyn, Mc Moana	Vai Luan, Rainha dos Faixa Preta	Mc Brunyn	154	167	9	99288	2epD7jzjNfrQYxdSaODCvF
-155	spotify:track:2RoWhAVtQrPU53BERYlmYZ	Pineapple StormTv, Cesar Mc, Elana Dara, Kayuá, Froid, Cynthia Luz, MV Bill, Bob do Contra, Hunter, Projota	Poesia Acústica #8: Amor e Samba	Pineapple StormTV	35	117	113	99154	2RoWhAVtQrPU53BERYlmYZ
-156	spotify:track:6l1PdE7lQbodewVQh16GCM	Projota, Vitão	Sei Lá	Universal Music Ltda.	23	122	344	99108	6l1PdE7lQbodewVQh16GCM
-157	spotify:track:0hVXuCcriWRGvwMV1r5Yn9	Ed Sheeran, Justin Bieber	I Don't Care (with Justin Bieber)	Atlantic Records UK	2	131	331	98812	0hVXuCcriWRGvwMV1r5Yn9
-158	spotify:track:3HXLUh9lzSrSLvrvLk2LjC	Henrique & Juliano	Se Eu Fosse Você - Ao Vivo	Virgin Music Label And Artist Services (S&D)	83	156	65	98126	3HXLUh9lzSrSLvrvLk2LjC
-159	spotify:track:3dPvQLKl42dMYWV4LWRTLK	Os Barões Da Pisadinha	Tá Rocheda	Sony Music Entertainment	103	198	39	97990	3dPvQLKl42dMYWV4LWRTLK
-160	spotify:track:3ZkTtSBN1wcSw35F8GDRmr	Gusttavo Lima	Chora Até Perder a Fala - Ao Vivo	Sony Music Entertainment	57	158	89	97674	3ZkTtSBN1wcSw35F8GDRmr
-161	spotify:track:1srkdshcaDm7HCRkmfeTdH	Henrique & Juliano	Ligação Covarde - Ao Vivo	Virgin Music Label And Artist Services (S&D)	63	151	23	97345	1srkdshcaDm7HCRkmfeTdH
-162	spotify:track:3YqLyRFwjGuPBT7EHoyQH7	Pk, Luísa Sonza	Tudo de bom	WM Brazil	52	124	69	96581	3YqLyRFwjGuPBT7EHoyQH7
-163	spotify:track:1zI3RU0boCVsAXChjCvESu	Ferrugem	Até que enfim - Ao vivo	WM Brazil	46	175	260	95642	1zI3RU0boCVsAXChjCvESu
-164	spotify:track:3jjujdWJ72nww5eGnfs2E7	Harry Styles	Adore You	Columbia	49	134	118	94664	3jjujdWJ72nww5eGnfs2E7
-165	spotify:track:3fLqmaO4vvZpFZSZy52VMp	Lagum, Ana Gabriela	Deixa (feat. Ana Gabriela)	Sony Music Entertainment	20	141	667	94321	3fLqmaO4vvZpFZSZy52VMp
-166	spotify:track:01wavOnjFBNgdMWBFYIAP4	Sorriso Maroto, Dilsinho	50 Vezes - Ao Vivo	Sony Music Entertainment	35	173	310	94184	01wavOnjFBNgdMWBFYIAP4
-167	spotify:track:2KGv51jgAz8OTjNPyRryfq	Jorge & Mateus	Pra Sempre Com Você - Ao Vivo	Som Livre	30	-1	408	93961	2KGv51jgAz8OTjNPyRryfq
-168	spotify:track:3tA0vALUwrzkTgHcm9j6oJ	Zé Neto & Cristiano	Notificação Preferida - Ao Vivo	Som Livre	2	194	654	93619	3tA0vALUwrzkTgHcm9j6oJ
-169	spotify:track:2655xYZ347fG2N6OjkoMQ8	Jorge & Mateus	Logo Eu	Som Livre	147	-1	22	92661	2655xYZ347fG2N6OjkoMQ8
-170	spotify:track:67JokRnfWFJ93mA5HLIw6q	Lexa	Aquecimento da Lexa	Som Livre	76	166	60	92224	67JokRnfWFJ93mA5HLIw6q
-171	spotify:track:7szuecWAPwGoV1e5vGu8tl	The Weeknd	In Your Eyes	Republic Records	85	130	16	92150	7szuecWAPwGoV1e5vGu8tl
-172	spotify:track:2kOmW169C7UV4SZDN9u0YO	Dj Guuga, Mc Livinho	Vidrado Em Você	GR6 Music	27	183	271	91821	2kOmW169C7UV4SZDN9u0YO
-173	spotify:track:69Si1G3kLuCQLqQF1EbL25	MC Kevin o Chris, Ferrugem	Romance Proibido - Ao Vivo	Som Livre	86	190	107	91805	69Si1G3kLuCQLqQF1EbL25
-174	spotify:track:0AVDN1LiDn0abh39xqDRtQ	Mc Gw, MC Theuzyn, DJ Piu	Rave Jogando o L	GR6 Music	84	179	58	91422	0AVDN1LiDn0abh39xqDRtQ
-175	spotify:track:0H8CBal2Dcu5Yc001VotZN	IZA	Dona de mim	WM Brazil	23	155	549	90348	0H8CBal2Dcu5Yc001VotZN
-176	spotify:track:5EKHbW7mXcAR4hCyS3YXjb	Felipe Araújo, Ferrugem	Atrasadinha - Live	Universal Music Ltda.	1	-1	541	89488	5EKHbW7mXcAR4hCyS3YXjb
-177	spotify:track:2U94QDSo9N4e1iXrjo7KAB	Jorge & Mateus	Terra Sem CEP - Ao Vivo	Som Livre	23	-1	411	89380	2U94QDSo9N4e1iXrjo7KAB
-178	spotify:track:5gvrBqNFFEWcxYPt3mamvJ	Luan Santana	quando a bad bater - ao vivo	Som Livre	1	189	277	89255	5gvrBqNFFEWcxYPt3mamvJ
-179	spotify:track:0pqnGHJpmpxLKifKRmU6WP	Imagine Dragons	Believer	Kid Ina Korner / Interscope	30	161	1156	89236	0pqnGHJpmpxLKifKRmU6WP
-180	spotify:track:1nqaSoiLuqevDes4S18sO7	Gusttavo Lima	Milu	Gusttavo Lima	5	-1	245	89209	1nqaSoiLuqevDes4S18sO7
-181	spotify:track:2NnSYdNhqye00il4nRB4tj	Jorge & Mateus	Nocaute	Som Livre	181	-1	1	88483	2NnSYdNhqye00il4nRB4tj
-182	spotify:track:44mr3ypWNHa0inr3heiOb2	Jorge & Mateus	Medida Certa	Som Livre	21	-1	410	86618	44mr3ypWNHa0inr3heiOb2
-183	spotify:track:0J6cINt02c8UQqDG7vLShY	Melim	Gelo	Universal Music Ltda.	31	168	229	86345	0J6cINt02c8UQqDG7vLShY
-184	spotify:track:1DFD5Fotzgn6yYXkYsKiGs	MEDUZA, Goodboys	Piece Of Your Heart	Virgin	55	178	315	85577	1DFD5Fotzgn6yYXkYsKiGs
-185	spotify:track:4A8LKlysJXq8swPVDPd0xH	Rennan da Penha, POCAH	Carnaval Chegando - Ao Vivo	Sony Music Entertainment	33	197	52	85455	4A8LKlysJXq8swPVDPd0xH
-186	spotify:track:4f3e6HRUIu5Ub2mcwu8god	NGC Daddy	Glockada	NGC Records	186	-1	1	85134	4f3e6HRUIu5Ub2mcwu8god
-187	spotify:track:1xFgXCY8Zvo76gHg4RgUaU	Jorge & Mateus	Sosseguei - Ao Vivo	Som Livre	29	-1	163	85064	1xFgXCY8Zvo76gHg4RgUaU
-188	spotify:track:5eMmT4Ava5BGThju0AD8vQ	Gusttavo Lima	Cem Mil - Ao Vivo	Som Livre	1	-1	470	84734	5eMmT4Ava5BGThju0AD8vQ
-189	spotify:track:51Fjme0JiitpyXKuyQiCDo	Y2K, bbno$	Lalala	Columbia	7	174	225	84410	51Fjme0JiitpyXKuyQiCDo
-190	spotify:track:5JKaHAt4atuNoLqpyDgbyK	Pineapple StormTv, Froid, Xamã, Dk 47, Chris MC, Cynthia Luz, Luccas Carlos, Hunter	Poesia Acústica - Paris	Pineapple StormTV	87	152	17	84086	5JKaHAt4atuNoLqpyDgbyK
-191	spotify:track:0h1mVA8gOPR71lxSeY67uT	PEDRO SAMPAIO	FICA À VONTADE	WM Brazil	96	196	229	84056	0h1mVA8gOPR71lxSeY67uT
-192	spotify:track:6Diq6oBnDVzsrNcRllXRbM	Mc Leozin	Maldita de Ex	A2M Produtora	59	192	232	84003	6Diq6oBnDVzsrNcRllXRbM
-193	spotify:track:11Y1IGMIThaxu4ijcXRNYs	Pixote	Nem de Graça	GR Shows	145	-1	210	83816	11Y1IGMIThaxu4ijcXRNYs
-194	spotify:track:6yNcZpBQOMoMRNow1bYhub	Jorge & Mateus	Mistérios - Ao Vivo	Universal Music Ltda.	194	-1	1	83690	6yNcZpBQOMoMRNow1bYhub
-195	spotify:track:24UHZm1bx25ITCNUfvadlN	Jorge & Mateus	Um Dia Te Levo Comigo - Ao Vivo	Universal Music Ltda.	195	-1	1	83641	24UHZm1bx25ITCNUfvadlN
-196	spotify:track:6iW38RGqdDGOofmz2HeXLW	MEDUZA, Alok, Goodboys	Piece Of Your Heart - Alok Remix	Virgin	102	186	281	83203	6iW38RGqdDGOofmz2HeXLW
-197	spotify:track:6hqQPoB1yYKcLfByfxO8he	Wesley Safadão, Zé Neto & Cristiano	Na Cama Que Eu Paguei - Ao Vivo	Som Livre	12	-1	180	82938	6hqQPoB1yYKcLfByfxO8he
-198	spotify:track:7JdZZfozlODQ08ATf8xIZ6	Gustavo Mioto, Jorge & Mateus	Anti Amor - Ao Vivo	Universal Music Ltda.	7	-1	536	82877	7JdZZfozlODQ08ATf8xIZ6
-199	spotify:track:1dKYlw6v9wofuqb7EXSvPn	DENNIS, Cantini	Isso Que é Vida	Sony Music Entertainment	181	-1	6	82267	1dKYlw6v9wofuqb7EXSvPn
-200	spotify:track:0DwzQguiWvB8jJonQ5ewJu	MC Lya, MC Henny, Dj GM	Virgem	LoveFunk	147	-1	36	82243	0DwzQguiWvB8jJonQ5ewJu
+,rank,uri,artist_names,track_name,source,peak_rank,previous_rank,days_on_chart,streams,ID,compound,neg,neu,pos
+0,1,spotify:track:3tv697PZNnaQN0Mn2zGhS5,Gusttavo Lima,A Gente Fez Amor - Ao Vivo,Sony Music Entertainment,1,2,121,786017,3tv697PZNnaQN0Mn2zGhS5,0.9946,0.029,0.823,0.148
+1,2,spotify:track:3Ghyp3X5Ua9ypHnBIgOObI,Henrique & Juliano,Liberdade Provisória - Live - Ibirapuera / 2019,Virgin Music Label And Artist Services (S&D),1,3,121,706820,3Ghyp3X5Ua9ypHnBIgOObI,-0.6808,0.023,0.977,0.0
+2,3,spotify:track:2WlZuBDgLfT7Kc0admhFdg,Luísa Sonza,BRABA,Universal Music Ltda.,1,1,18,669782,2WlZuBDgLfT7Kc0admhFdg,-0.5267,0.017,0.983,0.0
+3,4,spotify:track:2PWjKmjyTZeDpmOUa3a5da,Jorge & Mateus,Cheirosa - Ao Vivo,Som Livre,3,9,177,567891,2PWjKmjyTZeDpmOUa3a5da,-0.5267,0.02,0.98,0.0
+4,5,spotify:track:5W1kqz2l1lDX77DXBMeXZg,Matheus & Kauan,Litrão - Ao Vivo Em Recife / 2020,Universal Music Ltda.,3,6,65,529853,5W1kqz2l1lDX77DXBMeXZg,-0.7989,0.029,0.971,0.0
+5,6,spotify:track:3tc8Z4lGzOIwmIVftsxO6o,Marília Mendonça,Graveto - Ao Vivo,Som Livre,3,7,86,523483,3tc8Z4lGzOIwmIVftsxO6o,0.34,0.015,0.968,0.017
+6,7,spotify:track:3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Warner Records,1,4,156,509617,3PfIrDoz19wz7qK7tYeu62,-0.9873,0.129,0.839,0.032
+7,8,spotify:track:3J5Pu25BODMex4Jpy4l6FL,"Luíza & Maurílio, Zé Neto & Cristiano",S de Saudade,Som Livre,6,8,156,508769,3J5Pu25BODMex4Jpy4l6FL,0.0,0.0,1.0,0.0
+8,9,spotify:track:0RaIjuKU5hudMteEXwr4RS,Jorge & Mateus,Ranking,Som Livre,9,11,30,499512,0RaIjuKU5hudMteEXwr4RS,-0.89,0.045,0.955,0.0
+9,10,spotify:track:1K7WzjKDcDdVbKNGrB0gej,"Major Lazer, MC Lan, Anitta, BEAM",Rave de Favela (feat. BEAM),WM Brazil,2,5,50,493424,1K7WzjKDcDdVbKNGrB0gej,-0.9959,0.211,0.724,0.065
+10,11,spotify:track:2Q9TaUXNM4mNSCgJjbmsJe,Zé Neto & Cristiano,Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Som Livre,4,13,128,442624,2Q9TaUXNM4mNSCgJjbmsJe,0.0,0.0,1.0,0.0
+11,12,spotify:track:6QwFUcPc5nhsqZuhXUYtV7,Jorge & Mateus,Tijolão - Ao Vivo,Som Livre,1,23,317,436786,6QwFUcPc5nhsqZuhXUYtV7,0.0,0.0,1.0,0.0
+12,13,spotify:track:4lKuzrdZrJuCAedbIslF3A,"PEDRO SAMPAIO, Felipe Original, JS o Mão de Ouro",SENTADÃO,WM Brazil,2,10,135,424685,4lKuzrdZrJuCAedbIslF3A,0.5696,0.06,0.867,0.073
+13,14,spotify:track:5L8ZEyIdZ2KE4Wf51SsuOF,Gustavo Mioto,Com Ou Sem Mim - Ao Vivo,Universal Music Ltda.,5,15,135,406652,5L8ZEyIdZ2KE4Wf51SsuOF,0.8541,0.0,0.963,0.037
+14,15,spotify:track:1uryupl9hqVZYurJwH4G9k,Guilherme & Benuto,3 Batidas - Ao Vivo,Sony Music Entertainment,8,19,224,402279,1uryupl9hqVZYurJwH4G9k,0.0,0.083,0.856,0.061
+15,16,spotify:track:1rgnBhdG2JDFTbYkYRZAku,Tones And I,Dance Monkey,Elektra (NEK),5,12,195,391327,1rgnBhdG2JDFTbYkYRZAku,0.0387,0.023,0.946,0.03
+16,17,spotify:track:4p8pEdPYOQLzJUKYrLOacy,"WC no Beat, PEDRO SAMPAIO, FP do Trem Bala",BALANÇA (feat. Pedro Sampaio),Sony Music Entertainment,8,14,65,383397,4p8pEdPYOQLzJUKYrLOacy,-0.5803,0.018,0.982,0.0
+17,18,spotify:track:7Ac3BmqTQoLdAt7HtZyfgN,"DENNIS, Mc Don Juan",Te Prometo,Sony Music Entertainment,14,16,57,382930,7Ac3BmqTQoLdAt7HtZyfgN,-0.9874,0.021,0.965,0.013
+18,19,spotify:track:63SHcJzckFykS8faA5zojY,"MC Ingryd, DJ Henrique da VK",Vem Me Satisfazer,MC Ingryd,4,17,123,371023,63SHcJzckFykS8faA5zojY,-0.9718,0.066,0.934,0.0
+19,20,spotify:track:7o9LwQmTuIDm4LyyHFIWul,Henrique & Juliano,Volta Por Baixo - Ao Vivo,Virgin Music Label And Artist Services (S&D),16,20,86,370134,7o9LwQmTuIDm4LyyHFIWul,0.9798,0.0,0.907,0.093
+20,21,spotify:track:3GmJxfnUDrIs1iCfKUELFz,Marília Mendonça,Supera - Ao Vivo,Som Livre,1,24,233,368168,3GmJxfnUDrIs1iCfKUELFz,0.8402,0.0,0.964,0.036
+21,22,spotify:track:4HUZBG98TYbxSR9V1V2DWS,"Thiaguinho MT, Mila, JS o Mão de Ouro",Tudo Ok,Sony Music Entertainment,1,21,97,357647,4HUZBG98TYbxSR9V1V2DWS,-0.889,0.063,0.906,0.032
+22,23,spotify:track:60wF0XnX7A0jVpDNA5v8vi,"Vytinho NG, Bianca",Tudo no Sigilo,Vytinho Ng,18,18,18,352458,60wF0XnX7A0jVpDNA5v8vi,-0.8642,0.03,0.97,0.0
+23,24,spotify:track:6nI98wtHOJAYSASq22TCYu,Luan Santana,água com açúcar - ao vivo,Som Livre,22,22,20,329393,6nI98wtHOJAYSASq22TCYu,0.9809,0.018,0.859,0.123
+24,25,spotify:track:2bPtwnrpFNEe8N7Q85kLHw,"Anitta, Lexa, Luísa Sonza, Rebecca",Combatchy (feat. MC Rebecca),WM Brazil,1,25,137,329166,2bPtwnrpFNEe8N7Q85kLHw,-0.9637,0.061,0.939,0.0
+25,26,spotify:track:146Vb458Y5RbqEa0fYFPzm,Felipe Araújo,Mentira - Ao Vivo,Universal Music Ltda.,21,28,124,318702,146Vb458Y5RbqEa0fYFPzm,0.0,0.0,1.0,0.0
+26,27,spotify:track:6lK3nCiigk34SGqEjpQoqO,Maiara & Maraisa,Aí Eu Bebo - Ao Vivo,Som Livre,13,30,170,318189,6lK3nCiigk34SGqEjpQoqO,0.0,0.0,1.0,0.0
+27,28,spotify:track:4j2bK4fnc2s6GyVmhJsJhk,Henrique & Juliano,Briga Feia - Ao Vivo,Virgin Music Label And Artist Services (S&D),24,31,114,292615,4j2bK4fnc2s6GyVmhJsJhk,-0.5267,0.018,0.982,0.0
+28,29,spotify:track:4UUtssVRs2aQTLQCAAtZg1,Jorge & Mateus,"Mil Anos - Recorded At Mosh Studios, São Paulo",Som Livre,29,47,117,287436,4UUtssVRs2aQTLQCAAtZg1,0.8402,0.0,0.953,0.047
+29,30,spotify:track:24Yi9hE78yPEbZ4kxyoXAI,"SAINt JHN, Imanbek",Roses - Imanbek Remix,Columbia/B1 Recordings,26,26,37,281725,24Yi9hE78yPEbZ4kxyoXAI,-0.9724,0.11,0.825,0.065
+30,31,spotify:track:2PqPSf3gtTED79rWGwVtYg,Diego & Victor Hugo,Áudio - Ao Vivo em Brasília,Sony Music Entertainment,30,39,267,276395,2PqPSf3gtTED79rWGwVtYg,0.0,0.0,1.0,0.0
+31,32,spotify:track:3WjSkl7VDWY1prwJw7dSG0,Zé Neto & Cristiano,Barzinho Aleatório - Ao Vivo,Som Livre,32,37,121,276191,3WjSkl7VDWY1prwJw7dSG0,-0.5267,0.021,0.979,0.0
+32,33,spotify:track:1MmS7UIy3J1BTxfGCRvVqN,Gusttavo Lima,Carreira Solo - Ao Vivo,Sony Music Entertainment,21,40,156,273568,1MmS7UIy3J1BTxfGCRvVqN,0.0,0.0,1.0,0.0
+33,34,spotify:track:2MOq63fxuFLYQM3CsDcFs1,GIULIA BE,menina solta,WM Brazil,10,29,180,272711,2MOq63fxuFLYQM3CsDcFs1,0.2244,0.015,0.973,0.013
+34,35,spotify:track:5q0NlM6Pm8Pp3orq7zGiRn,"Matheus & Kauan, Jorge & Mateus",Quarta Cadeira - Ao Vivo,Universal Music Ltda.,9,44,380,266571,5q0NlM6Pm8Pp3orq7zGiRn,0.0,0.0,1.0,0.0
+35,36,spotify:track:5F8ffc8KWKNawllr5WsW0r,"Dadá Boladão, Tati Zaqui, OIK",Surtada - Remix Brega Funk,Sony Music Entertainment,1,36,188,264217,5F8ffc8KWKNawllr5WsW0r,-0.5267,0.014,0.986,0.0
+36,37,spotify:track:72xB2J9ZeBl0Rzxq2XmzdY,"João Gustavo e Murilo, Analaga",Lençol Dobrado,WM Brazil,2,41,517,263924,72xB2J9ZeBl0Rzxq2XmzdY,0.0,0.0,1.0,0.0
+37,38,spotify:track:5n8Y78Pl5q8lqS7sJP61qw,Diego & Arnaldo,Relógio Parado (Ao Vivo),Sony Music Entertainment,34,43,171,259252,5n8Y78Pl5q8lqS7sJP61qw,0.0,0.0,1.0,0.0
+38,39,spotify:track:14kRWkCWBYfQqILflEcpSJ,"Lexa, PEDRO SAMPAIO",Chama Ela (feat. Pedro Sampaio),Som Livre,5,35,193,258517,14kRWkCWBYfQqILflEcpSJ,-0.8593,0.038,0.962,0.0
+39,40,spotify:track:017PF4Q3l4DBUiWoXk4OWT,Dua Lipa,Break My Heart,Warner Records,8,27,10,255619,017PF4Q3l4DBUiWoXk4OWT,0.9992,0.065,0.698,0.236
+40,41,spotify:track:7vpGKEUPrA4UEsS4o4W1tP,Pabllo Vittar,Amor de Que,Sony Music Entertainment,10,34,156,253950,7vpGKEUPrA4UEsS4o4W1tP,0.995,0.032,0.792,0.176
+41,42,spotify:track:5fY9bVl1Wj4PIM3wnduWop,Marília Mendonça,Serenata - Ao Vivo,Som Livre,14,45,324,251725,5fY9bVl1Wj4PIM3wnduWop,0.0,0.0,1.0,0.0
+42,43,spotify:track:5MArTXEVyKBwoodjdy04fk,"Zé Felipe, Gusttavo Lima",Tiro Certo - Ao Vivo,Som Livre,14,48,296,248865,5MArTXEVyKBwoodjdy04fk,0.9081,0.0,0.954,0.046
+43,44,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Republic Records,23,32,99,248137,0VjIjW4GlUZAMYd2vXMi3b,0.0,0.0,1.0,0.0
+44,45,spotify:track:17Ryox5vWKp92IDW87C5PI,Gusttavo Lima,Quem Traiu Levou - Ao Vivo,Sony Music Entertainment,14,49,206,232706,17Ryox5vWKp92IDW87C5PI,-0.1531,0.025,0.96,0.015
+45,46,spotify:track:0nbXyq5TXYPCO7pr3N8S4I,Roddy Ricch,The Box,Atlantic Records,26,38,85,230733,0nbXyq5TXYPCO7pr3N8S4I,-0.9883,0.118,0.814,0.068
+46,47,spotify:track:1AfNdxHdE4OLcnQUyC6j3i,"MC JottaPê, MC Kekel, MC Kevinho",Eterna Sacanagem,KondZilla Records,19,46,170,223834,1AfNdxHdE4OLcnQUyC6j3i,0.9832,0.008,0.919,0.073
+47,48,spotify:track:3AzjcOeAmA57TIOr9zF1ZW,Dua Lipa,Physical,Warner Records,11,33,62,221705,3AzjcOeAmA57TIOr9zF1ZW,0.9313,0.059,0.848,0.094
+48,49,spotify:track:7eJMfftS33KTjuF7lTsMCx,"Powfu, beabadoobee",death bed (coffee for your head),Columbia,37,42,27,215748,7eJMfftS33KTjuF7lTsMCx,0.9925,0.033,0.859,0.108
+49,50,spotify:track:1U3tv41tFRgOfbytpuYQrR,Zé Neto & Cristiano,Ferida Curada,Som Livre,4,52,261,203686,1U3tv41tFRgOfbytpuYQrR,0.9682,0.0,0.91,0.09
+50,51,spotify:track:15Dl8e6gdR0I1IQn0M4SGi,Simone & Simaria,Amoreco,Universal Music Ltda.,8,54,51,200354,15Dl8e6gdR0I1IQn0M4SGi,-0.6776,0.043,0.957,0.0
+51,52,spotify:track:3vSXPjfcebTt5mB8DXHWM6,Wesley Safadão,Dois Lados,Som Livre,37,53,240,199446,3vSXPjfcebTt5mB8DXHWM6,0.4098,0.0,0.988,0.012
+52,53,spotify:track:5LpLYzpV0HWKI2DlPmNywg,"Wesley Safadão, Zé Neto & Cristiano",Despedida - Ao Vivo,Som Livre,53,62,2,195188,5LpLYzpV0HWKI2DlPmNywg,-0.9388,0.049,0.951,0.0
+53,54,spotify:track:2TR917wkDeRvwTE5cSfZFf,"Humberto & Ronaldo, Matheus & Kauan",Tchau Brigado - Ao Vivo,Humberto e Ronaldo,46,59,94,191710,2TR917wkDeRvwTE5cSfZFf,0.0,0.0,1.0,0.0
+54,55,spotify:track:5dKesZwp6deuhEeW8F1UEi,"Felipe Original, MC Kevin o Chris, Sodré, JS o Mão de Ouro",Hit Contagiante,Tudo Nosso Produtora,1,55,250,186362,5dKesZwp6deuhEeW8F1UEi,-0.9337,0.105,0.847,0.048
+55,56,spotify:track:7qpXCkcr3Zj4LDvdiWryns,Diego & Victor Hugo,Erro Antigo - Ao Vivo,Sony Music Entertainment,53,60,72,184080,7qpXCkcr3Zj4LDvdiWryns,0.0,0.0,1.0,0.0
+56,57,spotify:track:2KyXyTrp3kp1Fsg7B1osYD,"Yasmin Santos, Marília Mendonça","Para, Pensa e Volta - Ao Vivo",Sony Music Entertainment,19,65,282,183989,2KyXyTrp3kp1Fsg7B1osYD,0.0,0.0,1.0,0.0
+57,58,spotify:track:2uhBCMHwS3SATOHIgM2KPF,Zé Neto & Cristiano,Textão - Ao Vivo,Som Livre,52,58,37,182354,2uhBCMHwS3SATOHIgM2KPF,0.0,0.0,1.0,0.0
+58,59,spotify:track:4pnlRYoaaGu24SuC3et5Pv,"Yasmin Santos, Wesley Safadão",Saudade em Gotas (feat. Wesley Safadão) - Ao Vivo,Sony Music Entertainment,59,70,201,180656,4pnlRYoaaGu24SuC3et5Pv,0.0,0.0,1.0,0.0
+59,60,spotify:track:1Nmcs8zk7LfcvHRgLtTM5J,"Orochi, Papatinho",Amor de Fim de Noite,Mainstreet Records,47,50,140,178446,1Nmcs8zk7LfcvHRgLtTM5J,0.9948,0.004,0.908,0.088
+60,61,spotify:track:23zmMwD99ROi9yhxqMxWil,"João Bosco & Vinicius, Matheus",Segunda Taça - Ao Vivo,João Bosco & Vinicius,61,61,44,178296,23zmMwD99ROi9yhxqMxWil,0.0,0.0,1.0,0.0
+61,62,spotify:track:7ArNH109yIfwIquJ535fsi,"Marcos & Belutti, Gaab",Certo e Duvidoso (feat. Gaab) - Ao Vivo,Sony Music Entertainment,55,66,67,177087,7ArNH109yIfwIquJ535fsi,0.9776,0.0,0.936,0.064
+62,63,spotify:track:6sRLrSetyIwIKhW1eMlUNP,"Matheus & Kauan, Marília Mendonça",Vou Ter Que Superar - Ao Vivo,Universal Music Ltda.,2,67,380,177005,6sRLrSetyIwIKhW1eMlUNP,0.9304,0.0,0.962,0.038
+63,64,spotify:track:3Uq45ipGutypFPmETfaoaH,"MC Du Black, DJ 2F",Gaiola É o Troco,EP MIX Editora,1,56,251,176806,3Uq45ipGutypFPmETfaoaH,0.9581,0.0,0.954,0.046
+64,65,spotify:track:159ntSAEWJ9zIMOSXmQ530,Luan Santana,choque térmico - ao vivo,Som Livre,11,74,226,172528,159ntSAEWJ9zIMOSXmQ530,0.8402,0.0,0.97,0.03
+65,66,spotify:track:5FFpRbsH9WDYNoLauRAHpj,"MC Kevinho, Dadá Boladão, MC JottaPê",Paredão,WM Brazil,18,57,104,169833,5FFpRbsH9WDYNoLauRAHpj,-0.9581,0.059,0.941,0.0
+66,67,spotify:track:6t4GFrRJgdMijBL8qMU184,Jorge & Mateus,Tela Preta,Som Livre,53,114,15,167782,6t4GFrRJgdMijBL8qMU184,0.0,0.0,1.0,0.0
+67,68,spotify:track:4jGzR5Vri06Y5T9SxM7m5P,"Xand Avião, Gusttavo Lima",Algo Mais (Amante) - Ao Vivo,Som Livre,10,86,326,167057,4jGzR5Vri06Y5T9SxM7m5P,-0.9688,0.018,0.981,0.001
+68,69,spotify:track:4RC2nzqaQygxoVQOVv3XlT,"Leo Santana, Anitta",Contatinho - Ao Vivo,Universal Music Ltda.,5,75,212,165148,4RC2nzqaQygxoVQOVv3XlT,0.8692,0.014,0.958,0.028
+69,70,spotify:track:3nsKjzNGp8ForQahgMo2JV,Henrique & Juliano,Amor Atual - Ao Vivo,Virgin Music Label And Artist Services (S&D),51,51,2,162901,3nsKjzNGp8ForQahgMo2JV,0.9779,0.036,0.853,0.11
+70,71,spotify:track:08Sd5vVcIH3uKeAiaJdoYj,Lauana Prado,Viva Voz - Ao Vivo Em São Paulo / 2019,Universal Music Ltda.,71,84,30,159270,08Sd5vVcIH3uKeAiaJdoYj,0.8625,0.038,0.858,0.104
+71,72,spotify:track:2RMOwSvOGQyy985Vx4VSGQ,"LUDMILLA, Topo La Maskara, Walshy Fire",Verdinha,WM Brazil,8,76,128,158545,2RMOwSvOGQyy985Vx4VSGQ,-0.1431,0.049,0.917,0.034
+72,73,spotify:track:74n5d5M21JnC4WJ6gdkggK,Jorge & Mateus,Propaganda - Ao Vivo,Som Livre,1,154,614,157447,74n5d5M21JnC4WJ6gdkggK,0.6808,0.067,0.869,0.065
+73,74,spotify:track:7x2PPGgAptvKQI2Aw8XIY0,Jorge & Mateus,"Quase Sem Querer - Recorded At Mosh Studios, São Paulo",Som Livre,74,119,14,155529,7x2PPGgAptvKQI2Aw8XIY0,0.9996,0.063,0.837,0.1
+74,75,spotify:track:4Y7ay3naWoluoOM3xIj1UZ,LUDMILLA,"A boba fui eu - Recorded At Mosh Studios, São Paulo",WM Brazil,68,78,18,150764,4Y7ay3naWoluoOM3xIj1UZ,0.8738,0.0,0.975,0.025
+75,76,spotify:track:1G60NjxeOS7veR1EXuKPaW,Gustavo Mioto,Fake News - Ao Vivo Em São Paulo / 2019,Universal Music Ltda.,18,89,332,150112,1G60NjxeOS7veR1EXuKPaW,0.9581,0.036,0.867,0.097
+76,77,spotify:track:098MRSXb4tj5EDVSUSpHIn,Jorge & Mateus,Instantes,Som Livre,52,132,14,149469,098MRSXb4tj5EDVSUSpHIn,0.25,0.0,0.978,0.022
+77,78,spotify:track:4Clmg1g8n2yBYG13Z1oSdG,"Dayvi, Victor Cardenas, Kelly Ruíz",Baila Conmigo (feat. Kelly Ruiz),Sony Music México,53,79,95,147213,4Clmg1g8n2yBYG13Z1oSdG,0.0,0.0,1.0,0.0
+78,79,spotify:track:7CHi4DtfK4heMlQaudCuHK,"MEDUZA, Becky Hill, Goodboys",Lose Control,Virgin,55,72,121,146924,7CHi4DtfK4heMlQaudCuHK,0.9626,0.137,0.714,0.149
+79,80,spotify:track:2rRJrJEo19S2J82BDsQ3F7,Trevor Daniel,Falling,Alamo,53,68,114,146920,2rRJrJEo19S2J82BDsQ3F7,-0.9673,0.146,0.819,0.035
+80,81,spotify:track:4gDvg62vG96w0qJaF6wzcd,"Diego & Victor Hugo, Zé Neto & Cristiano",A Culpa é do Meu Grau (feat. Zé Neto & Cristiano) - Ao Vivo em Brasília,Sony Music Entertainment,14,97,380,146907,4gDvg62vG96w0qJaF6wzcd,0.0,0.0,1.0,0.0
+81,82,spotify:track:2qD7VoDYcrAPY0cVEfpsR5,"Anitta, Marília Mendonça",Some que ele vem atrás,WM Brazil,2,91,158,146329,2qD7VoDYcrAPY0cVEfpsR5,0.0,0.0,1.0,0.0
+82,83,spotify:track:127QTOFJsJQp5LbJbu3A1y,Drake,Toosie Slide,OVO,83,94,2,146251,127QTOFJsJQp5LbJbu3A1y,-0.4516,0.115,0.764,0.121
+83,84,spotify:track:3oqC4Ta40ft6NnTJwcUTdi,"Rashid, Lukinhas, Emicida",Pipa Voada (feat. Emicida),Sony Music Entertainment,61,69,28,145789,3oqC4Ta40ft6NnTJwcUTdi,0.0,0.0,1.0,0.0
+84,85,spotify:track:59WWulo1LM0njpIkcduCMn,Atitude 67,Tão Linda,Universal Music Ltda.,35,82,245,145367,59WWulo1LM0njpIkcduCMn,0.0,0.0,1.0,0.0
+85,86,spotify:track:3Dv1eDb0MEgF93GpLXlucZ,Doja Cat,Say So,Kemosabe Records/RCA Records,51,63,42,145361,3Dv1eDb0MEgF93GpLXlucZ,0.0,0.0,1.0,0.0
+86,87,spotify:track:2Yz14TQlxNXHmnkml4TyDL,Gabi Martins,Neném - Ao Vivo,Gabi Martins,58,64,15,142166,2Yz14TQlxNXHmnkml4TyDL,0.0,0.0,1.0,0.0
+87,88,spotify:track:4E6RdcCWMiHTu7zy1VTNDo,Marília Mendonça,Todo Mundo Vai Sofrer - Ao Vivo,Som Livre,1,100,324,141965,4E6RdcCWMiHTu7zy1VTNDo,0.0,0.0,1.0,0.0
+88,89,spotify:track:6v3KW9xbzN5yKLt9YKDYA2,"Shawn Mendes, Camila Cabello",Señorita,Island Records,2,80,289,141855,6v3KW9xbzN5yKLt9YKDYA2,0.9988,0.033,0.724,0.244
+89,90,spotify:track:7k4t7uLgtOxPwTpFmtJNTY,"KAROL G, Nicki Minaj",Tusa,TUSA - Karol G & Nicki Minaj,38,73,92,141788,7k4t7uLgtOxPwTpFmtJNTY,-0.8339,0.053,0.908,0.04
+90,91,spotify:track:6toDZSoqG5QUitFsoxavRy,"Vitão, Anitta",Complicado,Universal Music Ltda.,8,77,184,141465,6toDZSoqG5QUitFsoxavRy,0.9446,0.009,0.94,0.05
+91,92,spotify:track:5STHFaWYO1KeyITjvB4hR8,Marília Mendonça,Tentativas,Som Livre,20,88,51,140168,5STHFaWYO1KeyITjvB4hR8,0.9581,0.018,0.901,0.081
+92,93,spotify:track:3rDAHk73LZmgJIyGZstWQ0,Pixote,Nem de Graça / Saudade Arregaça - Ao Vivo,GR Shows,51,104,219,137002,3rDAHk73LZmgJIyGZstWQ0,0.0,0.0,1.0,0.0
+93,94,spotify:track:6mdU8glNHYdBBj5DuKSL1B,Gusttavo Lima,Perrengue - Ao Vivo,Sony Music Entertainment,15,107,184,134485,6mdU8glNHYdBBj5DuKSL1B,0.0,0.0,1.0,0.0
+94,95,spotify:track:7sYAS4CpbV90oSemgaEQat,"Alok, Dynoro",On & On,Columbia/B1 Recordings,66,87,134,134473,7sYAS4CpbV90oSemgaEQat,0.9986,0.018,0.712,0.271
+95,96,spotify:track:2GfxgssRHvY1azHtaRqKoK,Jorge & Mateus,Paredes - Ao Vivo,Som Livre,14,-1,460,133081,2GfxgssRHvY1azHtaRqKoK,0.924,0.0,0.92,0.08
+96,97,spotify:track:7Gk5OrMYaMRtT2JmgJVAfk,"ANAVITÓRIA, Vitor Kley",Pupila,Universal Music Ltda.,14,81,275,133004,7Gk5OrMYaMRtT2JmgJVAfk,-0.5349,0.007,0.993,0.0
+97,98,spotify:track:72N0CRIAqjETbhghrkCUW2,"Murilo Huff, Marília Mendonça",Dois Enganados,Artinvox,41,109,310,131882,72N0CRIAqjETbhghrkCUW2,0.8225,0.017,0.937,0.046
+98,99,spotify:track:48CAeajgzcGJaVUSsXd7h0,"Guilherme & Benuto, Israel & Rodolffo",Declaração pro Bar - Ao Vivo,Sony Music Entertainment,90,103,49,130640,48CAeajgzcGJaVUSsXd7h0,0.6124,0.0,0.977,0.023
+99,100,spotify:track:3MkdA6vwF0ifRl86yzTlJW,Matuê,Kenny G,Sony Music Entertainment,5,85,213,128491,3MkdA6vwF0ifRl86yzTlJW,0.8732,0.048,0.888,0.064
+100,101,spotify:track:31yFXM26dazFnWI2eoOM5R,"MC G15, Mc Livinho",Ela Vem,GR6 Music,21,98,289,128415,31yFXM26dazFnWI2eoOM5R,-0.8299,0.032,0.968,0.0
+101,102,spotify:track:7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Vertigo Berlin,60,83,220,125620,7qEHsqek33rTcFNT9PFqLf,0.0,0.0,1.0,0.0
+102,103,spotify:track:1xyVMQx51Kab6eLVtE6twx,"Lauana Prado, Maiara & Maraisa",Cobaia,Universal Music Ltda.,6,115,604,123896,1xyVMQx51Kab6eLVtE6twx,0.9413,0.007,0.939,0.053
+103,104,spotify:track:67mqU3FeErlvWwsxnMfvQo,"MC Du Black, Delacruz",Tudo Aconteceu,Universal Music Ltda.,88,96,10,123729,67mqU3FeErlvWwsxnMfvQo,-0.9413,0.05,0.95,0.0
+104,105,spotify:track:5U28PY9MekLyCBYtLHGQpe,Melim,Meu Abrigo,Universal Music Ltda.,1,101,681,123467,5U28PY9MekLyCBYtLHGQpe,0.9022,0.04,0.886,0.074
+105,106,spotify:track:5qjMyKkmosPBws5cImS9Zz,Jorge & Mateus,Trincadinho - Ao Vivo,Som Livre,6,-1,408,123302,5qjMyKkmosPBws5cImS9Zz,0.0,0.0,1.0,0.0
+106,107,spotify:track:4rnI4obabjGCPI2CCCs5VR,Felipe Araújo,Hoje Eu Beberei - Ao Vivo,Universal Music Ltda.,58,128,167,122959,4rnI4obabjGCPI2CCCs5VR,0.6476,0.0,0.951,0.049
+107,108,spotify:track:7offICpl9kla5kC61uUAs9,"MC JottaPê, Lexa",Bate Palma,KondZilla Records,40,108,79,121530,7offICpl9kla5kC61uUAs9,-0.9929,0.1,0.896,0.005
+108,109,spotify:track:5cN5ZOVcYBl4Lnq50Zeqsx,"Matheus & Kauan, Gusttavo Lima",Mágica - Live,Universal Music Ltda.,35,123,380,121248,5cN5ZOVcYBl4Lnq50Zeqsx,-0.5267,0.015,0.985,0.0
+109,110,spotify:track:24YUl9cgjcEvgJTr2WIT1q,Diego & Arnaldo,Casos Pendentes - Acústico,Sony Music Entertainment,65,137,121,121098,24YUl9cgjcEvgJTr2WIT1q,0.0,0.0,1.0,0.0
+110,111,spotify:track:4umIPjkehX1r7uhmGvXiSV,"Justin Bieber, Quavo",Intentions (feat. Quavo),RBMG/Def Jam,41,90,58,119317,4umIPjkehX1r7uhmGvXiSV,0.9907,0.046,0.838,0.117
+111,112,spotify:track:1DmSaQjZkuwFi57KPv20oB,Pabllo Vittar,Rajadão,Sony Music Entertainment,3,92,11,118536,1DmSaQjZkuwFi57KPv20oB,0.6808,0.023,0.934,0.043
+112,113,spotify:track:16wAOAZ2OkqoIDN7TpChjR,Justin Bieber,Yummy,RBMG/Def Jam,12,95,93,117952,16wAOAZ2OkqoIDN7TpChjR,0.9986,0.008,0.736,0.256
+113,114,spotify:track:2InJDvDcA4RXEeA9njdibl,Jorge & Mateus,Louca de Saudade - Ao Vivo,Som Livre,35,-1,213,116507,2InJDvDcA4RXEeA9njdibl,0.0,0.0,0.0,0.0
+114,115,spotify:track:1p6dBmCdP7xh3OMTYJDZPK,Jorge & Mateus,O Que É Que Tem,Som Livre,115,-1,1,116302,1p6dBmCdP7xh3OMTYJDZPK,0.0,0.0,0.0,0.0
+115,116,spotify:track:2b8fOow8UzyDFAE27YhOZM,Maroon 5,Memories,Interscope Records*,78,105,174,115963,2b8fOow8UzyDFAE27YhOZM,0.9833,0.095,0.745,0.16
+116,117,spotify:track:696DnlkuDOXcMAnKlTgXXK,Arizona Zervas,ROXANNE,Arizona Zervas,70,102,132,115749,696DnlkuDOXcMAnKlTgXXK,0.9765,0.14,0.666,0.194
+117,118,spotify:track:6AQHdnPnoNoSpCJIO23KsX,"MC JottaPê, DJ RD, MC M10",Sentou e Gostou,KondZilla,3,127,255,115084,6AQHdnPnoNoSpCJIO23KsX,0.9935,0.0,0.838,0.162
+118,119,spotify:track:49pu85144Xir6PgWjeyJhG,Guilherme & Benuto,Flor Que Se Cheira - Ao Vivo,Sony Music Entertainment,33,146,331,114668,49pu85144Xir6PgWjeyJhG,-0.5707,0.035,0.965,0.0
+119,120,spotify:track:3RbXsVQr4jeTxvT35Hssq3,Marília Mendonça,Bebi Liguei - Ao Vivo,Som Livre,2,149,476,114664,3RbXsVQr4jeTxvT35Hssq3,-0.8402,0.043,0.957,0.0
+120,121,spotify:track:5MMrkwK6AgNAsgHVdC7daZ,Dilsinho,Péssimo Negócio (Ao Vivo),Sony Music Entertainment,14,120,519,114619,5MMrkwK6AgNAsgHVdC7daZ,0.0,0.0,1.0,0.0
+121,122,spotify:track:3NnW2EqJxvHYrRy3upaznl,"MC Kevin o Chris, POCAH",Resenha lá em casa,WM Brazil,29,126,275,114304,3NnW2EqJxvHYrRy3upaznl,-0.5267,0.007,0.993,0.0
+122,123,spotify:track:1Cv1YLb4q0RzL6pybtaMLo,Surfaces,Sunday Best,"Surfaces, LLC / TenThousand Projects, LLC",88,99,20,113743,1Cv1YLb4q0RzL6pybtaMLo,0.9989,0.027,0.589,0.384
+123,124,spotify:track:3GSGW5pQhHKBmmQLebX3vx,Mc Anônimo,Pagou De Superada,Gufo Records,70,118,114,112805,3GSGW5pQhHKBmmQLebX3vx,0.0,0.0,1.0,0.0
+124,125,spotify:track:22rcaYTa2UgcLCbeO0NoNj,"Priscilla Alcantara, Whindersson Nunes",Girassol,Sony Music Entertainment,5,93,115,112713,22rcaYTa2UgcLCbeO0NoNj,0.0,0.0,1.0,0.0
+125,126,spotify:track:5PNvgiKSwMdjBsDsgFCFLX,"Maverick Sabre, Jorja Smith, Vintage Culture, Slow Motion",Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix,Spinnin' Deep,71,71,2,111965,5PNvgiKSwMdjBsDsgFCFLX,0.863,0.054,0.872,0.074
+126,127,spotify:track:7HLU2aJTAQfSIgJ2dMASsP,"Mc Poze do Rodo, Dj Gabriel do Borel",To Voando Alto,Mc Poze do Rodo,16,125,133,111437,7HLU2aJTAQfSIgJ2dMASsP,0.0,0.0,1.0,0.0
+127,128,spotify:track:15DHt4fP4FARWLvWkIxdAx,"Vou pro Sereno, LUDMILLA",Teu Segredo - Ao Vivo,Sony Music Entertainment,72,138,170,109628,15DHt4fP4FARWLvWkIxdAx,0.8002,0.02,0.951,0.029
+128,129,spotify:track:42ynW96YtyRkp1nx2vE4g9,Henrique & Juliano,Online - Ao Vivo,Virgin Music Label And Artist Services (S&D),52,116,16,109368,42ynW96YtyRkp1nx2vE4g9,0.0,0.0,1.0,0.0
+129,130,spotify:track:1qCLx3nX25NuhfPjM5E1qV,Melim,Ouvi Dizer,Universal Music Ltda.,10,121,624,109243,1qCLx3nX25NuhfPjM5E1qV,0.4939,0.0,0.985,0.015
+130,131,spotify:track:5aayWOEE7u7bxZ3r7dwIrX,IZA,Meu talismã,WM Brazil,75,106,198,108889,5aayWOEE7u7bxZ3r7dwIrX,0.9274,0.013,0.938,0.049
+131,132,spotify:track:21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Republic Records,32,110,219,108482,21jGcNKet2qwijlDFuPiPb,0.9686,0.041,0.858,0.1
+132,133,spotify:track:2I1bHdlKar6igsep1R6H46,Henrique & Juliano,Alô Bebê - Ao Vivo,Virgin Music Label And Artist Services (S&D),92,136,44,108179,2I1bHdlKar6igsep1R6H46,-0.7599,0.033,0.967,0.0
+133,134,spotify:track:3mikf8qZaNp6wrrWxHgawH,"Pabllo Vittar, Psirico",Parabéns,Sony Music Entertainment,18,112,170,108177,3mikf8qZaNp6wrrWxHgawH,0.0,0.0,1.0,0.0
+134,135,spotify:track:0CgMeXQiNYJxPVQ2EMJxdL,"Mc Livinho, Mc Pedrinho",Se Prepara 2,GR6 Music,31,129,170,107623,0CgMeXQiNYJxPVQ2EMJxdL,0.0,0.0,1.0,0.0
+135,136,spotify:track:4k20Ie47EcWtS4wMBn8w8S,"LUDMILLA, Leo Santana",Invocada (Participação especial de Léo Santana) - Ao vivo,WM Brazil,10,143,255,107498,4k20Ie47EcWtS4wMBn8w8S,0.0,0.0,1.0,0.0
+136,137,spotify:track:65i9Mc7h1CG7ssI1OhMPcT,Dilsinho,Onze e Pouquinho,Sony Music Entertainment,107,133,170,106799,65i9Mc7h1CG7ssI1OhMPcT,0.6808,0.015,0.957,0.028
+137,138,spotify:track:0abrd2vT2W3JZBDNezUY7r,Thiaguinho,Deixa Tudo Como Tá - Ao Vivo,Som Livre,77,142,169,106364,0abrd2vT2W3JZBDNezUY7r,0.0,0.0,1.0,0.0
+138,139,spotify:track:2Fxmhks0bxGSBdJ92vM42m,Billie Eilish,bad guy,Darkroom/Interscope Records,21,111,373,106253,2Fxmhks0bxGSBdJ92vM42m,-0.9962,0.255,0.659,0.086
+139,140,spotify:track:58Kv71AxpWF6ab0Z76jQId,Jorge & Mateus,Coração Calejado - Ao Vivo,Som Livre,51,-1,60,105980,58Kv71AxpWF6ab0Z76jQId,0.0,0.0,0.0,0.0
+140,141,spotify:track:37hCsK2djczyRGWMjqzbxD,"Mc Lele JP, MC Neguinho do Kaxeta",Sou Vitorioso,GR6 Music,90,139,92,105874,37hCsK2djczyRGWMjqzbxD,0.1798,0.034,0.931,0.036
+141,142,spotify:track:7D5F5BzIon5zhzQrOU2pdN,Marília Mendonça,Ciumeira - Ao Vivo,Som Livre,1,164,590,104641,7D5F5BzIon5zhzQrOU2pdN,0.4215,0.008,0.977,0.015
+142,143,spotify:track:3tu0GkIZwwkmILoD4HemBq,Raí Saia Rodada,Bebe e Vem Me Procurar,Som Livre,36,159,296,103860,3tu0GkIZwwkmILoD4HemBq,0.8807,0.04,0.887,0.073
+143,144,spotify:track:13Rf6RaZT13TW4xLQR3MQr,"Pineapple StormTv, MC Cabelinho, Bob do Contra, Azzy, Filipe Ret, Dudu, Xamã, Orochi, Maquiny, Salve Malak, Hunter",Poesia Acústica #6: Era uma Vez,Pineapple StormTV,14,113,466,103631,13Rf6RaZT13TW4xLQR3MQr,-0.9606,0.033,0.948,0.018
+144,145,spotify:track:7N0Py2msno86enR6JPNlpV,Turma do Pagode,Muito Cedo,Sony Music Entertainment,137,148,57,103628,7N0Py2msno86enR6JPNlpV,0.0,0.0,1.0,0.0
+145,146,spotify:track:0rUL7vUZmCKxB0gS83W3aM,"Marília Mendonça, Leo Santana, Didá Banda Feminina",Apaixonadinha - Ao Vivo,Som Livre,49,169,324,102830,0rUL7vUZmCKxB0gS83W3aM,0.0,0.0,1.0,0.0
+146,147,spotify:track:1qy7aOHnfnOMJoT1fhoLYG,"Marília Mendonça, Gaab",Intenção - Ao Vivo,Som Livre,54,153,233,102370,1qy7aOHnfnOMJoT1fhoLYG,0.9631,0.01,0.94,0.05
+147,148,spotify:track:6mnySl4xEnPy0ZBBWSAHc9,Henrique & Juliano,Não Gosto Eu Amo - Ao Vivo,Virgin Music Label And Artist Services (S&D),53,160,77,102213,6mnySl4xEnPy0ZBBWSAHc9,-0.5267,0.017,0.983,0.0
+148,149,spotify:track:6cy3ki60hLwimwIje7tALf,"Black Eyed Peas, J Balvin",RITMO (Bad Boys For Life),Epic/We The Best,62,135,147,101802,6cy3ki60hLwimwIje7tALf,0.9938,0.054,0.81,0.137
+149,150,spotify:track:0nkDm27DGppCSk8dnGtvPa,POCAH,Não sou obrigada,WM Brazil,14,150,370,101499,0nkDm27DGppCSk8dnGtvPa,0.8516,0.0,0.972,0.028
+150,151,spotify:track:5GHA824FwkHeBl5u1T6kLj,Hugo & Guilherme,Namorada Reserva - Ao Vivo,Som Livre,71,187,234,101032,5GHA824FwkHeBl5u1T6kLj,0.9697,0.0,0.844,0.156
+151,152,spotify:track:5rNNZ6fVYxkhwqUfImVhU1,IZA,Brisa,WM Brazil,36,145,351,100690,5rNNZ6fVYxkhwqUfImVhU1,0.6369,0.0,0.983,0.017
+152,153,spotify:track:26WpOBpHiIMoBuMEIwtOCH,"Pk, PK Delas",Quando a vontade bater (Participação especial de PK Delas),WM Brazil,6,144,387,99731,26WpOBpHiIMoBuMEIwtOCH,0.0,0.0,1.0,0.0
+153,154,spotify:track:2epD7jzjNfrQYxdSaODCvF,"Mc Brunyn, Mc Moana","Vai Luan, Rainha dos Faixa Preta",Mc Brunyn,154,167,9,99288,2epD7jzjNfrQYxdSaODCvF,0.0,0.0,1.0,0.0
+154,155,spotify:track:2RoWhAVtQrPU53BERYlmYZ,"Pineapple StormTv, Cesar Mc, Elana Dara, Kayuá, Froid, Cynthia Luz, MV Bill, Bob do Contra, Hunter, Projota",Poesia Acústica #8: Amor e Samba,Pineapple StormTV,35,117,113,99154,2RoWhAVtQrPU53BERYlmYZ,0.6476,0.0,0.977,0.023
+155,156,spotify:track:6l1PdE7lQbodewVQh16GCM,"Projota, Vitão",Sei Lá,Universal Music Ltda.,23,122,344,99108,6l1PdE7lQbodewVQh16GCM,0.0,0.0,1.0,0.0
+156,157,spotify:track:0hVXuCcriWRGvwMV1r5Yn9,"Ed Sheeran, Justin Bieber",I Don't Care (with Justin Bieber),Atlantic Records UK,2,131,331,98812,0hVXuCcriWRGvwMV1r5Yn9,0.9177,0.094,0.798,0.108
+157,158,spotify:track:3HXLUh9lzSrSLvrvLk2LjC,Henrique & Juliano,Se Eu Fosse Você - Ao Vivo,Virgin Music Label And Artist Services (S&D),83,156,65,98126,3HXLUh9lzSrSLvrvLk2LjC,0.0,0.0,1.0,0.0
+158,159,spotify:track:3dPvQLKl42dMYWV4LWRTLK,Os Barões Da Pisadinha,Tá Rocheda,Sony Music Entertainment,103,198,39,97990,3dPvQLKl42dMYWV4LWRTLK,-0.7959,0.036,0.964,0.0
+159,160,spotify:track:3ZkTtSBN1wcSw35F8GDRmr,Gusttavo Lima,Chora Até Perder a Fala - Ao Vivo,Sony Music Entertainment,57,158,89,97674,3ZkTtSBN1wcSw35F8GDRmr,0.0,0.0,1.0,0.0
+160,161,spotify:track:1srkdshcaDm7HCRkmfeTdH,Henrique & Juliano,Ligação Covarde - Ao Vivo,Virgin Music Label And Artist Services (S&D),63,151,23,97345,1srkdshcaDm7HCRkmfeTdH,0.9591,0.0,0.933,0.067
+161,162,spotify:track:3YqLyRFwjGuPBT7EHoyQH7,"Pk, Luísa Sonza",Tudo de bom,WM Brazil,52,124,69,96581,3YqLyRFwjGuPBT7EHoyQH7,0.0,0.0,1.0,0.0
+162,163,spotify:track:1zI3RU0boCVsAXChjCvESu,Ferrugem,Até que enfim - Ao vivo,WM Brazil,46,175,260,95642,1zI3RU0boCVsAXChjCvESu,0.9594,0.0,0.954,0.046
+163,164,spotify:track:3jjujdWJ72nww5eGnfs2E7,Harry Styles,Adore You,Columbia,49,134,118,94664,3jjujdWJ72nww5eGnfs2E7,0.9939,0.049,0.799,0.152
+164,165,spotify:track:3fLqmaO4vvZpFZSZy52VMp,"Lagum, Ana Gabriela",Deixa (feat. Ana Gabriela),Sony Music Entertainment,20,141,667,94321,3fLqmaO4vvZpFZSZy52VMp,0.9933,0.053,0.765,0.182
+165,166,spotify:track:01wavOnjFBNgdMWBFYIAP4,"Sorriso Maroto, Dilsinho",50 Vezes - Ao Vivo,Sony Music Entertainment,35,173,310,94184,01wavOnjFBNgdMWBFYIAP4,0.8402,0.0,0.974,0.026
+166,167,spotify:track:2KGv51jgAz8OTjNPyRryfq,Jorge & Mateus,Pra Sempre Com Você - Ao Vivo,Som Livre,30,-1,408,93961,2KGv51jgAz8OTjNPyRryfq,0.0,0.0,0.0,0.0
+167,168,spotify:track:3tA0vALUwrzkTgHcm9j6oJ,Zé Neto & Cristiano,Notificação Preferida - Ao Vivo,Som Livre,2,194,654,93619,3tA0vALUwrzkTgHcm9j6oJ,0.8402,0.0,0.962,0.038
+168,169,spotify:track:2655xYZ347fG2N6OjkoMQ8,Jorge & Mateus,Logo Eu,Som Livre,147,-1,22,92661,2655xYZ347fG2N6OjkoMQ8,0.0,0.0,0.0,0.0
+169,170,spotify:track:67JokRnfWFJ93mA5HLIw6q,Lexa,Aquecimento da Lexa,Som Livre,76,166,60,92224,67JokRnfWFJ93mA5HLIw6q,0.0,0.0,1.0,0.0
+170,171,spotify:track:7szuecWAPwGoV1e5vGu8tl,The Weeknd,In Your Eyes,Republic Records,85,130,16,92150,7szuecWAPwGoV1e5vGu8tl,-0.976,0.133,0.788,0.079
+171,172,spotify:track:2kOmW169C7UV4SZDN9u0YO,"Dj Guuga, Mc Livinho",Vidrado Em Você,GR6 Music,27,183,271,91821,2kOmW169C7UV4SZDN9u0YO,0.0,0.0,1.0,0.0
+172,173,spotify:track:69Si1G3kLuCQLqQF1EbL25,"MC Kevin o Chris, Ferrugem",Romance Proibido - Ao Vivo,Som Livre,86,190,107,91805,69Si1G3kLuCQLqQF1EbL25,0.9001,0.02,0.916,0.065
+173,174,spotify:track:0AVDN1LiDn0abh39xqDRtQ,"Mc Gw, MC Theuzyn, DJ Piu",Rave Jogando o L,GR6 Music,84,179,58,91422,0AVDN1LiDn0abh39xqDRtQ,0.0,0.0,1.0,0.0
+174,175,spotify:track:0H8CBal2Dcu5Yc001VotZN,IZA,Dona de mim,WM Brazil,23,155,549,90348,0H8CBal2Dcu5Yc001VotZN,0.0,0.0,1.0,0.0
+175,176,spotify:track:5EKHbW7mXcAR4hCyS3YXjb,"Felipe Araújo, Ferrugem",Atrasadinha - Live,Universal Music Ltda.,1,-1,541,89488,5EKHbW7mXcAR4hCyS3YXjb,-0.4314,0.01,0.99,0.0
+176,177,spotify:track:2U94QDSo9N4e1iXrjo7KAB,Jorge & Mateus,Terra Sem CEP - Ao Vivo,Som Livre,23,-1,411,89380,2U94QDSo9N4e1iXrjo7KAB,0.0,0.0,1.0,0.0
+177,178,spotify:track:5gvrBqNFFEWcxYPt3mamvJ,Luan Santana,quando a bad bater - ao vivo,Som Livre,1,189,277,89255,5gvrBqNFFEWcxYPt3mamvJ,-0.9738,0.123,0.823,0.054
+178,179,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,30,161,1156,89236,0pqnGHJpmpxLKifKRmU6WP,-0.9939,0.163,0.783,0.055
+179,180,spotify:track:1nqaSoiLuqevDes4S18sO7,Gusttavo Lima,Milu,Gusttavo Lima,5,-1,245,89209,1nqaSoiLuqevDes4S18sO7,0.7783,0.063,0.86,0.077
+180,181,spotify:track:2NnSYdNhqye00il4nRB4tj,Jorge & Mateus,Nocaute,Som Livre,181,-1,1,88483,2NnSYdNhqye00il4nRB4tj,0.0,0.0,0.0,0.0
+181,182,spotify:track:44mr3ypWNHa0inr3heiOb2,Jorge & Mateus,Medida Certa,Som Livre,21,-1,410,86618,44mr3ypWNHa0inr3heiOb2,0.0,0.0,0.0,0.0
+182,183,spotify:track:0J6cINt02c8UQqDG7vLShY,Melim,Gelo,Universal Music Ltda.,31,168,229,86345,0J6cINt02c8UQqDG7vLShY,0.8738,0.0,0.974,0.026
+183,184,spotify:track:1DFD5Fotzgn6yYXkYsKiGs,"MEDUZA, Goodboys",Piece Of Your Heart,Virgin,55,178,315,85577,1DFD5Fotzgn6yYXkYsKiGs,0.9868,0.004,0.894,0.103
+184,185,spotify:track:4A8LKlysJXq8swPVDPd0xH,"Rennan da Penha, POCAH",Carnaval Chegando - Ao Vivo,Sony Music Entertainment,33,197,52,85455,4A8LKlysJXq8swPVDPd0xH,-0.9876,0.142,0.858,0.0
+185,186,spotify:track:4f3e6HRUIu5Ub2mcwu8god,NGC Daddy,Glockada,NGC Records,186,-1,1,85134,4f3e6HRUIu5Ub2mcwu8god,0.9744,0.013,0.884,0.103
+186,187,spotify:track:1xFgXCY8Zvo76gHg4RgUaU,Jorge & Mateus,Sosseguei - Ao Vivo,Som Livre,29,-1,163,85064,1xFgXCY8Zvo76gHg4RgUaU,0.0,0.0,0.0,0.0
+187,188,spotify:track:5eMmT4Ava5BGThju0AD8vQ,Gusttavo Lima,Cem Mil - Ao Vivo,Som Livre,1,-1,470,84734,5eMmT4Ava5BGThju0AD8vQ,0.128,0.015,0.966,0.019
+188,189,spotify:track:51Fjme0JiitpyXKuyQiCDo,"Y2K, bbno$",Lalala,Columbia,7,174,225,84410,51Fjme0JiitpyXKuyQiCDo,0.7481,0.099,0.775,0.126
+189,190,spotify:track:5JKaHAt4atuNoLqpyDgbyK,"Pineapple StormTv, Froid, Xamã, Dk 47, Chris MC, Cynthia Luz, Luccas Carlos, Hunter",Poesia Acústica - Paris,Pineapple StormTV,87,152,17,84086,5JKaHAt4atuNoLqpyDgbyK,0.9917,0.006,0.947,0.047
+190,191,spotify:track:0h1mVA8gOPR71lxSeY67uT,PEDRO SAMPAIO,FICA À VONTADE,WM Brazil,96,196,229,84056,0h1mVA8gOPR71lxSeY67uT,0.7184,0.0,0.975,0.025
+191,192,spotify:track:6Diq6oBnDVzsrNcRllXRbM,Mc Leozin,Maldita de Ex,A2M Produtora,59,192,232,84003,6Diq6oBnDVzsrNcRllXRbM,0.0,0.0,1.0,0.0
+192,193,spotify:track:11Y1IGMIThaxu4ijcXRNYs,Pixote,Nem de Graça,GR Shows,145,-1,210,83816,11Y1IGMIThaxu4ijcXRNYs,-0.296,0.051,0.918,0.031
+193,194,spotify:track:6yNcZpBQOMoMRNow1bYhub,Jorge & Mateus,Mistérios - Ao Vivo,Universal Music Ltda.,194,-1,1,83690,6yNcZpBQOMoMRNow1bYhub,0.0,0.0,0.0,0.0
+194,195,spotify:track:24UHZm1bx25ITCNUfvadlN,Jorge & Mateus,Um Dia Te Levo Comigo - Ao Vivo,Universal Music Ltda.,195,-1,1,83641,24UHZm1bx25ITCNUfvadlN,0.0,0.0,0.0,0.0
+195,196,spotify:track:6iW38RGqdDGOofmz2HeXLW,"MEDUZA, Alok, Goodboys",Piece Of Your Heart - Alok Remix,Virgin,102,186,281,83203,6iW38RGqdDGOofmz2HeXLW,0.9868,0.004,0.894,0.103
+196,197,spotify:track:6hqQPoB1yYKcLfByfxO8he,"Wesley Safadão, Zé Neto & Cristiano",Na Cama Que Eu Paguei - Ao Vivo,Som Livre,12,-1,180,82938,6hqQPoB1yYKcLfByfxO8he,0.6124,0.0,0.97,0.03
+197,198,spotify:track:7JdZZfozlODQ08ATf8xIZ6,"Gustavo Mioto, Jorge & Mateus",Anti Amor - Ao Vivo,Universal Music Ltda.,7,-1,536,82877,7JdZZfozlODQ08ATf8xIZ6,0.6124,0.0,0.986,0.014
+198,199,spotify:track:1dKYlw6v9wofuqb7EXSvPn,"DENNIS, Cantini",Isso Que é Vida,Sony Music Entertainment,181,-1,6,82267,1dKYlw6v9wofuqb7EXSvPn,-0.929,0.026,0.97,0.004
+199,200,spotify:track:0DwzQguiWvB8jJonQ5ewJu,"MC Lya, MC Henny, Dj GM",Virgem,LoveFunk,147,-1,36,82243,0DwzQguiWvB8jJonQ5ewJu,0.9922,0.009,0.9,0.092

@@ -1,12 +1,12 @@
-Highcharts.chart('stacked2021', {
+Highcharts.chart('stacked2019', {
     chart: {
       type: 'column'
     },
     title: {
-      text: 'Postividade das músicas mais ouvidas em 2021'
+      text: 'Postividade das músicas mais ouvidas em 2019'
     },
     xAxis: {
-      categories: ['Liberdade Provisória - Henrique e Juliano', 'A gente fez amor - Gusttavo Lima', 'Graveto - Marília Mendonça', 'Volta por baixo - Henrique e Juliano', 'S de Saudade - Luíza & Maurílio, Zé Neto & Cristiano'],
+      categories: ['Lençol Dobrado - João Gustavo e Murilo', 'Bebi Liguei - Marília Mendonça', 'Atrasadinha - Felipe Araújo', 'Cobaia - Luana Prado', 'Notificação Preferida - Zé Neto & Cristiano'],
     },
     yAxis: {
       min: 0,
@@ -24,16 +24,16 @@ Highcharts.chart('stacked2021', {
       }
     },
     series: [{
-      name: 'Positive',
-      color: 'green',
-      data: [0.023, 0.029, 0.015, 0.0, 0.0]
+      name: 'Positivo',
+      color: '#6AAF5F',
+      data: [0.0, 0.043, 0.01, 0.007, 0.0]
     }, {
       name: 'Neutro',
       color: 'grey',
-      data: [0.977, 0.823, 0.968, 0.907, 1]
+      data: [1, 1, 0.957, 0.99, 0.962]
     }, {
       name: 'Negativo',
-      color: 'red',
-      data: [0.0, 0.148, 0.017, 0.093, 0.0]
+      color: '#DA422B',
+      data: [0.0, 0.0, 0.0, 0.053, 0.038]
     }]
   });
