@@ -20,16 +20,6 @@ Highcharts.chart('scatterPlot1', {
         text: 'compound'
       }
     },
-    legend: {
-      layout: 'vertical',
-      align: 'left',
-      verticalAlign: 'top',
-      x: 100,
-      y: 70,
-      floating: true,
-      backgroundColor: Highcharts.defaultOptions.chart.backgroundColor,
-      borderWidth: 1
-    },
     plotOptions: {
       scatter: {
         marker: {

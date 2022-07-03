@@ -117,7 +117,7 @@
                     </div>
                 </div>
                 <div class="grid-column mt3 mb2 order-1 reveal-on-scroll is-revealing">
-                    <img src="img/spotify-1280x720-1.jpg" alt="Usage data">
+                    <img src="img/istockphoto-1307073293-612x612.jpg" alt="Usage data">
                 </div>
             </div>
         </div>
@@ -200,197 +200,154 @@
                 Esses resultados se assemelham aos mostrados aos gráficos anuais em que é possível observar, em especial, um aumento nas features
                 no começo de 2021, coicidindo com o período do início da vacinação no Brasil.
             </p>
+            <br><br>
         </div>
 
         <!-- Introduction -->
         <div class="container--lg pt1 ">
             <div class="grid-row grid-row--center">
                 <div class="grid-column mb2" align="left">
-                    <h2>Análise de Sentimentos</h2>
+                    <h2>Análise de Sentimentos nas Letras</h2>
 
                     <p align="justify" style="font-size:110%;">
                         Propou-se para a segunda parte do trabalho, a execução de um algoritmo de análise de sentimento sobre as músicas coletadas anteriormente.
                         Para isso, foi necessário realizar a coleta das letras das músicas, através da biblioteca Genius. Também realizou-se 
-                        a implementação do algoritmo de análise de sentimentos FALAR DO ALGORITMO
-                    </p>
+                        a implementação do algoritmo de análise de sentimentos VADER.
+
+                        O VADER (Valence Aware Dictionary for Sentiment Reasoning) é um modelo usado para análise de sentimento de texto que
+                        é sensível tanto à polaridade (positiva/negativa) quanto à intensidade (força) da emoção.
+                    </p> 
+                    <p align="justify" style="font-size:110%;">
+                        A análise sentimental VADER conta com um dicionário que mapeia características lexicais para intensidades de 
+                        emoção conhecidas como pontuações de sentimento. A pontuação de sentimento de um texto pode ser obtida somando-se a
+                        intensidade de cada palavra no texto.
+
+                        Por exemplo, palavras como 'amor', 'desfrutar', 'feliz', 'gosto' transmitem um sentimento positivo. 
+                        Além disso, VADER consegue entender o contexto básico dessas palavras, como “não amo” como uma afirmação negativa.
+                        Também entende a ênfase de capitalização e pontuação, como “APROVEITE”.
+
+                        O algoritmo VADER recebe uma string e retorna um dicionário de pontuações em cada uma das quatro categorias:
+                        
+                        <ul align="left" style="margin-left: 30px;font-size:110%;">
+                            <li>negativo - em %</li>
+                            <li>neutro - em %</li>
+                            <li>positivo - em %</li>
+                            <li>composto (computado pela normalização das pontuações acima): -1 (extremamente negativo) - 1 (extremamente positivo)</li>
+                        </ul>
+                        </p>
                     <br>
+                    <h3><i>Composto</i> pelo tempo</h3>
                     <figure class="highcharts-figure">
                         <div id="compound"></div>
                     </figure>
-
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
+                    <p align="justify" style="font-size:110%">
+                        Os valores referente à essa feature, mostram uma pequena variação ente 0.1 e 0.2, isso aponta para uma análise de sentimentos
+                        em geral mais neutros com uma variação mais positiva que negativa. Observamos que o menor valor médio observado foi na semana de
+                        31 de Dezembro de 2020 e o maior em 25 de Março de 2021. Observamos também uma leve concentração de valores menores durante a semana posterior
+                        ao pico da primeira onda no Brasil, no final de Julho de 2020.
+                    </p>            
+                    <br>
+                    <hr>
+                    <br>
                     <figure class="highcharts-figure">
-                        <div id="scatterPlot1" style="min-width: 33%; height: 350px; float:left;"></div>
-                        <div id="scatterPlot2" style="min-width: 33%; height: 350px; float:left;"></div>
-                        <div id="scatterPlot3" style="min-width: 33%; height: 350px; float:left;"></div>
-                    </figure>  
-
+                        <div id="compound_marco"></div>
+                    </figure>
                     <figure class="highcharts-figure">
-                        <div id="negative"></div>
+                        <div id="compound_julho"></div>
+                    </figure>
+                    <figure class="highcharts-figure">
+                        <div id="compound_janeiro"></div>
                     </figure>
 
-                    
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise dos gráficos </p>
+                    <p align="justify" style="font-size:110%">
+                        Nos gráficos acima, observamos a mesma distribuição, mas considerando a média diária do <i>composto</i> dentro do período estabelecido
+                        anteriormente, de Março de 2020, Julho de 2020 e Janeiro de 2021. Os valores parecem variar normalmente, sem ser possível estabelecer
+                        nenhuma relação entre a variação e as datas chaves da pandemia, como o primeiro caso confirmado no Brasil em 27 de Fevereiro de 2020, a primeira morte no Brasil
+                        em 22 de Março de 2020, o Pico da Primeira Onda em 30 de Julho de 2020 e o início da vacinação em Janeiro de 2021.
+                    </p>            
+                    <br>
+                    <hr>
+                    <br>
+                    <h3>Positividade e negatividade</h3>
+                    <figure class="highcharts-figure">
+                        <div id="positive" style="min-width: 50%; height: 350px; float:left;"></div>
+                        <div id="negative" style="min-width: 50%; height: 350px; float:left;"></div>
+                    </figure>
+                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise dos gráficos </p>
+                    <p align="justify" style="font-size:110%">
+                        Nos gráficos acima, analisamos a distribuição pelo tempo da positividade e da negatividade média por semana.
+                        Novamente, as variações são muito pequenas para podermos concluir algo, entretanto, podemos observar
+                        valores mais altos de negatividade durante o Pico da Primeira Onda em Julho-Agosto de 2020.
+                    </p>            
+                    <br>
+                    <hr>
+                    <br>                 
                 </div>
             </div>
         </div>
 
-        <!-- Content Section -->
-        
-
         <!-- Introduction -->
         <div class="container--lg">
-            <h2>Análises Preliminares</h2>
-            <p align="justify" style="font-size:110%;"> 
-                A partir das três perspectivas, realizamos uma análise preliminar para explorar se existe algum fator que influencia alguma perspectiva de sucesso.
-                Especificamente, queremos responder as três perguntas de pesquisa citadas anteriormente. Para isso, avaliamos os seguintes fatores.
-            </p>
+            <h2>Outras análises</h2>
+            <h3>Scatters</h3>
+            <figure class="highcharts-figure">
+                <div id="scatterPlot1" style="min-width: 33%; height: 350px; float:left;"></div>
+                <div id="scatterPlot2" style="min-width: 33%; height: 350px; float:left;"></div>
+                <div id="scatterPlot3" style="min-width: 33%; height: 350px; float:left;"></div>
+            </figure>  
+
+            <p align="justify" style="font-weight: bold; font-size:110%;"> Análise dos gráficos </p>
+            <p align="justify" style="font-size:110%">
+                Relacionando a análise das letras com as features, fizemos um scatter do <i>composto</i> pelas features avaliadas anteriormente.
+                Podemos perceber que das três features, a que mais parece ter uma correlação positiva com o <i>composto</i> é a <i>danceability</i>,
+                as outras apresentaram uma relação mais negativa.
+            </p>            
             <br>
-            <ul align="left" style="margin-left: 30px;font-size:110%;">
-                <li>O que torna um livro digno de avaliação?</li>
-                <li>O que torna um livro popular?</li>
-                <li>O que torna um livro interessante?</li>
-            </ul>
+            <hr>
+            <br>
+            <h3>Positividade do TOP-5 de cada música</h3>
             <figure class="highcharts-figure">
                 <div id="stacked2019" style="min-width: 33%; height: 350px; float:left;"></div>
                 <div id="stacked2020" style="min-width: 33%; height: 350px; float:left;"></div>
                 <div id="stacked2021" style="min-width: 33%; height: 350px; float:left;"></div>
             </figure>
+
+            <p align="justify" style="font-weight: bold; font-size:110%;"> Análise dos gráficos </p>
+            <p align="justify" style="font-size:110%">
+                O objetivo do gráfico acima era fazer um estudo de caso das 5 músicas mais ouvidas em cada ano:
+                2019, 2020 e 2021. Percebemos de cara como a maior parte das músicas recebeu uma alta porcentagem de neutralidade.
+                Isso pode mostrar porque os gráficos mostrados anteriormente não trouxeram muitos insights. Ao observamos apenas as letras,
+                elas são majoritamente neutras. Isso faz sentido, uma vez que as letras dessas músicas analisadas são, de fato, mais neutras.
+                Os temas de amor, festa e alegria se misturam facilmente com problemas humanos, como traição, solidão, rancor, entre outros.
+                Contudo, é interessante observamos como a porcentagem de negatividade aumentou um pouco entre as músicas mais ouvidas em 2020.
+
+            </p>
             <br>
-            </div>
+            <hr>
+            <br>
+            <h3>Valores médios</h3>
+            <p align="justify" style="font-weight: bold; font-size:110%;"></p>
+            <p align="justify" style="font-size:110%">
+                De fato, os valores médios das features observadas foram:
+                <ul align="left" style="margin-left: 30px;font-size:110%;">
+                    <li>positivo: 3,6% </li>
+                    <li>neutro: 90%</li>
+                    <li>negativo: 5,5%</li>
+                    <li>composto (computado pela normalização das pontuações acima): 0.14</li>
+                </ul>
+            </p>  
+            <p align="justify" style="font-size:110%">
+                Esses valores indicam, como é bem mostrado pelo <i>composto</i>, que em geral as letras
+                podem ser consideradas levemente positivas. A maior parte foi considerada neutra.
+                Contudo, a porcentagem de negatividade é um pouco maior que a da positividade, embora não haja tanta diferença.
+            </p>
+            <br>
+            <hr>
+            <br>
             <br>
         </div>
-
-        <!-- Introduction -->
-        <div class="container--lg pt2 ">
-            <div class="grid-row grid-row--center">
-                <div class="grid-column" align="left">
-                    <h2>Clusterização</h2>
-
-                    <figure class="highcharts-figure">
-                        <div id="negative"></div>
-                    </figure>
-
-                </div>
-            </div>
-        </div>
-
-        <!-- Análise -->
-        <div class="container--lg ">
-            <div class="grid-row grid-row--center">
-                <div class="grid-column" align="left">
-                    <h2>Análise dos Níveis de Sucesso</h2>
-
-                    <p align="justify" style="font-size:110%;">Após o agrupamento das obras em relação ao nível de sucesso,
-                        exploramos alguns dos fatores que se mostraram mais relevantes nas análises preliminares. Inicialmente,
-                        utilizando o grau de pertinência retornado pelo algoritmo de clusterização, 
-                        analisamos quais são os gêneros literários mais frequentes em média para cada cluster. Para visualizar, utilizamos um
-                        mapa de calor, muito comum para representar dados multivalorados.
-                    </p>
-                    <br>
-                    <h3>Relação entre os gêneros e níveis de sucesso</h3>
-                    <p align="justify" style="font-size:110%;">Os gêneros são representados em linhas e cada coluna representa 
-                        um cluster. A variação de cores indica o grau médio de pertinência de cada cluster. Células verde escuro indicam um
-                        grau maior de pertinência e células mais claras, um grau mais baixo.
-                    </p>
-                    <br>
-                    <figure class="highcharts-figure">
-                        <div id="generoHeatmap"></div>
-                    </figure>
-                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
-                    <p align="justify" style="font-size:110%">Para o nível de sucesso alto, representado pelo Cluster 1, 
-                        temos que os gêneros Religion, Academic, Sci-Fi e Self-help são os que mais se destacam. Indicando
-                        que obras de tais gêneros são, em média, mais reconhecidos, populares e mais interessantes.
-
-                        Em relação ao nível baixo, representado pelo Cluster 2, os gêneros Childrens, Politics e Travels são os
-                        mais frequentes. Ou seja, são esses gêneros que possuem um nível de sucesso mais baixo, em média.
-
-                        Por fim, para o nível médio, representado pelo Cluster 3, os gêneros Design, Science, Humor e Cultural 
-                        são os que mais se destacam.</p>
-                    
-                    <br>
-                    <hr>
-                    <br>
-                    <h3>Relação entre o tamanho do livro e níveis de sucesso</h3>
-                    <p align="justify" style="font-size:110%;">Além dos gêneros literários, também analisamos o tamanho médio das obras
-                        em relação ao nível de sucesso. O tamanho dos livros é representado em linhas e cada coluna representa
-                        um cluster (i.e., nível de sucesso). Novamenta, a variação de cores indica o grau médio de pertinência de cada cluster. 
-                        Células laranja escuro indicam um grau maior de pertinência e células mais claras, um grau mais baixo.
-                    </p>
-                    <br>
-                    <figure class="highcharts-figure">
-                        <div id="sizeHeatmap"></div>
-                    </figure>
-                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
-                    <p align="justify" style="font-size:110%">Para os níveis de sucesso médio e alto, representados pelos Clusters 3 e 1,
-                        os resultados não indicaram uma predominância em relação ao tamanho dos livros, em média. Ou seja,
-                        tal fator pode não influenciar no alcance de sucesso literário.
-                    
-                        No entanto, em relação ao nível baixo, representado pelo Cluster 2, há uma predominância para livros longos/médios, em média.
-                        Isso pode indicar que livros muito longos não são muito reconhecidos, populares e interessantes.</p>
-                    
-                    <br>
-                    <hr>
-                    <br>
-                    <h3>Relação entre o ano de publicação e níveis de sucesso</h3>
-                    <p align="justify" style="font-size:110%;">Até então, havíamos analisado apenas variáveis categóricas.
-                        Dentre as nossas variáveis numéricas, através de uma análise preliminar, identificamos que o ano de
-                        publicação das obras pode ser um fator importante na definição de sucesso. Portanto, também analisamos 
-                        tal fator, considerando os três níveis de sucesso identificados na clusterização.
-                        
-                        Para visualizar, utilizamos gráficos de dispersão, investigando se a variação dos anos de publicação está
-                        correlacionada ao grau de pertinência das obras, para cada cluster (i.e., nível de sucesso).
-                    </p>                  
-                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
-                    <p align="justify" style="font-size:110%">
-                        Para os niveis de sucesso médio e alto, representados pelos Clusters 3 e 1, os resultados indicam que
-                        uma correlação negativa, onde quanto maior o grau de pertinência, menor é o ano de publicação dos livros. Tal
-                        resultado demonstra que obras mais antigas recebem maior reconhecimento, interesse e popularidade.
-                        
-                        De forma contrária, no nível de sucesso baixo, existe uma correlação positiva. Ou seja, quanto maior o grau de 
-                        pertinência do cluster, maior o ano de publicação, indicando que livros mais novos não são tão populares.
-                    
-                        No geral, os resultados foram como esperado, visto que livros mais novos possuem um tempo menor para que os leitores
-                        possam avaliá-los. Assim, as medidas de sucesso que consideramos penalizam tais livros lançados mais tarde.</p>                    
-                    <br>                    
-                    <hr>
-                    
-                    <br>
-                    <h3>Padrões multivalorados</h3>
-                    <p align="justify" style="font-size:110%">
-                        Para finalizar as anaálises de sucesso, investigamos padrões multivalorados, utilizando os principais fatores
-                        do nosso conjunto de dados. Para isso, utilizamos as coordenadas paralelas, onde cada coluna representa uma variável
-                        e a conexão entre elas revela o padrão multivalorado.</p>
-
-                    <figure class="highcharts-figure">
-                        <div id="test"></div>
-                    </figure>                        
-                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
-                    <p align="justify" style="font-size:110%">
-                        Para o nível de sucesso alto, é possível observar uma tendência em gêneros de ficção, no formato físico e mais curtos. 
-                        Em relação à decada de publicação, há uma predominância para décadas mais antigas.</p>                    
-                    <br> 
-
-                    <figure class="highcharts-figure">
-                        <div id="test2"></div>
-                    </figure>                    
-                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
-                    <p align="justify" style="font-size:110%">
-                        Para o nível de sucesso baixo, é possível observar uma tendência em gêneros de não-icção, no formato físico e mais longos.
-                        Em relação à decada de publicação, há uma predominância para décadas mais recentes.</p>                    
-                    <br> 
-
-                    <figure class="highcharts-figure">
-                        <div id="test3"></div>
-                    </figure>                    
-                    <p align="justify" style="font-weight: bold; font-size:110%;"> Análise do gráfico </p>
-                    <p align="justify" style="font-size:110%">
-                        Para o nível de sucesso médio, é possível observar uma tendência melhor distribuída entre as categorias das variáveis.</p>                    
-                    <br> 
-
-                    
-                </div>
-            </div>
-        </div>
-
 
         <!-- Acknowledgments -->
         <div class="bg--darkest-gray pt3 pb3 align--center">
@@ -414,6 +371,7 @@
     <script src="https://code.highcharts.com/modules/data.js"></script>
     <script src="https://code.highcharts.com/modules/series-label.js"></script>
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
 
 
     <!-- The compiled JavaScript file -->
@@ -426,8 +384,12 @@
     <script src="js/stacked2020.js"></script>
     <script src="js/stacked2021g.js"></script>
     <script src="js/stacked2019.js"></script>
-    <script src="js/negative.js"></script>
+    <script src="js/neg.js"></script>
     <script src="js/pos.js"></script>
+    <script src="js/teste.js"></script>
+    <script src="js/compound_marco.js"></script>
+    <script src="js/compound_julho.js"></script>
+    <script src="js/compound_janeiro.js"></script>
 
 </body>
 
