@@ -187,7 +187,7 @@ yAxis: {
   title: {
     text: 'Negative'
   },
-  min: 0.06,
+  max: 0.06,
   endOnTick: true
 },
 
