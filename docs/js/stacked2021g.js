@@ -3,7 +3,7 @@ Highcharts.chart('stacked2021', {
       type: 'column'
     },
     title: {
-      text: 'Postividade das músicas mais ouvidas em 2021'
+      text: '2021'
     },
     xAxis: {
       categories: ['Batom de Cereja - Israel & Rodolfo', 'Facas - Diego & Victor, Bruno & Marrone', 'Ele é Ele, Eu Sou Eu - Wesley Safadão', 'Meu Pedaço de Pecado - João Gomes', 'Baby Me Atende - Matheus Fernandes'],
@@ -11,7 +11,7 @@ Highcharts.chart('stacked2021', {
     yAxis: {
       min: 0,
       title: {
-        text: 'Nível de positividade'
+        text: 'Level of positivity'
       }
     },
     tooltip: {

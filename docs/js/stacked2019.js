@@ -3,7 +3,7 @@ Highcharts.chart('stacked2019', {
       type: 'column'
     },
     title: {
-      text: 'Postividade das músicas mais ouvidas em 2019'
+      text: '2019'
     },
     xAxis: {
       categories: ['Lençol Dobrado - João Gustavo e Murilo', 'Bebi Liguei - Marília Mendonça', 'Atrasadinha - Felipe Araújo', 'Cobaia - Luana Prado', 'Notificação Preferida - Zé Neto & Cristiano'],
@@ -11,7 +11,7 @@ Highcharts.chart('stacked2019', {
     yAxis: {
       min: 0,
       title: {
-        text: 'Nível de positividade'
+        text: 'Level of positivity'
       }
     },
     tooltip: {

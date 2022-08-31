@@ -184,9 +184,11 @@ tooltip: {
 },
 
 yAxis: {
-title: {
-text: 'Negative'
-}
+  title: {
+    text: 'Negative'
+  },
+  min: 0.06,
+  endOnTick: true
 },
 
 xAxis: {

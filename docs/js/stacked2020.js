@@ -3,7 +3,7 @@ Highcharts.chart('stacked2020', {
       type: 'column'
     },
     title: {
-      text: 'Postividade das músicas mais ouvidas em 2020'
+      text: '2020'
     },
     xAxis: {
       categories: ['Liberdade Provisória - Henrique e Juliano', 'A gente fez amor - Gusttavo Lima', 'Graveto - Marília Mendonça', 'Volta por baixo - Henrique e Juliano', 'S de Saudade - Luíza & Maurílio, Zé Neto & Cristiano'],
@@ -11,7 +11,7 @@ Highcharts.chart('stacked2020', {
     yAxis: {
       min: 0,
       title: {
-        text: 'Nível de positividade'
+        text: 'Level of positivity'
       }
     },
     tooltip: {
